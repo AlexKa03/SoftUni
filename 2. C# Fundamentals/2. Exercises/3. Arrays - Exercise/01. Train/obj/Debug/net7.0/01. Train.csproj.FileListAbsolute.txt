@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\bin\Debug\net7.0\01. Train.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\bin\Debug\net7.0\01. Train.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\bin\Debug\net7.0\01. Train.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\bin\Debug\net7.0\01. Train.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\bin\Debug\net7.0\01. Train.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\obj\Debug\net7.0\01. Train.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\obj\Debug\net7.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\obj\Debug\net7.0\01. Train.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\obj\Debug\net7.0\01. Train.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\obj\Debug\net7.0\01. Train.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\obj\Debug\net7.0\01. Train.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\obj\Debug\net7.0\refint\01. Train.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\obj\Debug\net7.0\01. Train.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\obj\Debug\net7.0\01. Train.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\01. Train\obj\Debug\net7.0\ref\01. Train.dll
