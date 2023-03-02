@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\bin\Debug\net5.0\04. Reverse.exe
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\bin\Debug\net5.0\04. Reverse.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\bin\Debug\net5.0\04. Reverse.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\bin\Debug\net5.0\04. Reverse.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\bin\Debug\net5.0\04. Reverse.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\bin\Debug\net5.0\04. Reverse.pdb
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\obj\Debug\net5.0\04. Reverse.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\obj\Debug\net5.0\04. Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\obj\Debug\net5.0\04. Reverse.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\obj\Debug\net5.0\04. Reverse.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\obj\Debug\net5.0\04. Reverse.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\obj\Debug\net5.0\04. Reverse.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\obj\Debug\net5.0\refint\04. Reverse.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\obj\Debug\net5.0\04. Reverse.pdb
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\obj\Debug\net5.0\04. Reverse.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\04. Reverse\obj\Debug\net5.0\ref\04. Reverse.dll
