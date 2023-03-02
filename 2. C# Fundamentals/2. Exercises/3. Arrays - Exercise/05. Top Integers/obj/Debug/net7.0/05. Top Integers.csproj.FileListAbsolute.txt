@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\bin\Debug\net7.0\05. Top Integers.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\bin\Debug\net7.0\05. Top Integers.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\bin\Debug\net7.0\05. Top Integers.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\bin\Debug\net7.0\05. Top Integers.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\bin\Debug\net7.0\05. Top Integers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\obj\Debug\net7.0\05. Top Integers.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\obj\Debug\net7.0\05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\obj\Debug\net7.0\05. Top Integers.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\obj\Debug\net7.0\05. Top Integers.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\obj\Debug\net7.0\05. Top Integers.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\obj\Debug\net7.0\05. Top Integers.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\obj\Debug\net7.0\refint\05. Top Integers.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\obj\Debug\net7.0\05. Top Integers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\obj\Debug\net7.0\05. Top Integers.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\05. Top Integers\obj\Debug\net7.0\ref\05. Top Integers.dll

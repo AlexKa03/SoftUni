@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\bin\Debug\net7.0\06. Equal Sum.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\bin\Debug\net7.0\06. Equal Sum.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\bin\Debug\net7.0\06. Equal Sum.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\bin\Debug\net7.0\06. Equal Sum.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\bin\Debug\net7.0\06. Equal Sum.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\obj\Debug\net7.0\06. Equal Sum.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\obj\Debug\net7.0\06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\obj\Debug\net7.0\06. Equal Sum.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\obj\Debug\net7.0\06. Equal Sum.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\obj\Debug\net7.0\06. Equal Sum.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\obj\Debug\net7.0\06. Equal Sum.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\obj\Debug\net7.0\refint\06. Equal Sum.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\obj\Debug\net7.0\06. Equal Sum.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\obj\Debug\net7.0\06. Equal Sum.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\3. Arrays - Exercise\06. Equal Sum\obj\Debug\net7.0\ref\06. Equal Sum.dll
