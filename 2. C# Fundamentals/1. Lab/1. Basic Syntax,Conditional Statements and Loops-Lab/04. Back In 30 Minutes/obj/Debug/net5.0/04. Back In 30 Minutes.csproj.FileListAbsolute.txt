@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\obj\Debug\net5.0\refint\04. Back In 30 Minutes.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\04. Back In 30 Minutes\obj\Debug\net5.0\ref\04. Back In 30 Minutes.dll
