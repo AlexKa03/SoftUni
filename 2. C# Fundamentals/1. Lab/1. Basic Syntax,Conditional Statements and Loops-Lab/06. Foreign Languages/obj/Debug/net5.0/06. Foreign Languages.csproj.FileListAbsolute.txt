@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\obj\Debug\net5.0\refint\06. Foreign Languages.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\06. Foreign Languages\obj\Debug\net5.0\ref\06. Foreign Languages.dll
