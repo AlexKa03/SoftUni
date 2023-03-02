@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net7.0\10. Multiply Evens by Odds.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net7.0\10. Multiply Evens by Odds.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net7.0\10. Multiply Evens by Odds.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net7.0\10. Multiply Evens by Odds.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net7.0\10. Multiply Evens by Odds.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net7.0\10. Multiply Evens by Odds.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net7.0\10. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net7.0\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net7.0\10. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net7.0\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net7.0\10. Multiply Evens by Odds.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net7.0\refint\10. Multiply Evens by Odds.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net7.0\10. Multiply Evens by Odds.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net7.0\10. Multiply Evens by Odds.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net7.0\ref\10. Multiply Evens by Odds.dll
