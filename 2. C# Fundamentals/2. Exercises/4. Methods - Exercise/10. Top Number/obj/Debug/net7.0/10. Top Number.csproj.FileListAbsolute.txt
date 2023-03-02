@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\bin\Debug\net7.0\10. Top Number.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\bin\Debug\net7.0\10. Top Number.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\bin\Debug\net7.0\10. Top Number.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\bin\Debug\net7.0\10. Top Number.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\bin\Debug\net7.0\10. Top Number.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\obj\Debug\net7.0\10. Top Number.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\obj\Debug\net7.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\obj\Debug\net7.0\10. Top Number.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\obj\Debug\net7.0\10. Top Number.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\obj\Debug\net7.0\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\obj\Debug\net7.0\10. Top Number.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\obj\Debug\net7.0\refint\10. Top Number.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\obj\Debug\net7.0\10. Top Number.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\obj\Debug\net7.0\10. Top Number.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\10. Top Number\obj\Debug\net7.0\ref\10. Top Number.dll

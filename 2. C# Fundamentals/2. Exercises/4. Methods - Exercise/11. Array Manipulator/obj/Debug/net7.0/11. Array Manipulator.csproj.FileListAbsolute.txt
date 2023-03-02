@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\obj\Debug\net7.0\11. Array Manipulator.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\obj\Debug\net7.0\11. Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\obj\Debug\net7.0\11. Array Manipulator.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\obj\Debug\net7.0\11. Array Manipulator.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\obj\Debug\net7.0\11. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\bin\Debug\net7.0\11. Array Manipulator.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\bin\Debug\net7.0\11. Array Manipulator.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\bin\Debug\net7.0\11. Array Manipulator.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\bin\Debug\net7.0\11. Array Manipulator.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\bin\Debug\net7.0\11. Array Manipulator.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\obj\Debug\net7.0\11. Array Manipulator.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\obj\Debug\net7.0\refint\11. Array Manipulator.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\obj\Debug\net7.0\11. Array Manipulator.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\obj\Debug\net7.0\11. Array Manipulator.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\11. Array Manipulator\obj\Debug\net7.0\ref\11. Array Manipulator.dll
