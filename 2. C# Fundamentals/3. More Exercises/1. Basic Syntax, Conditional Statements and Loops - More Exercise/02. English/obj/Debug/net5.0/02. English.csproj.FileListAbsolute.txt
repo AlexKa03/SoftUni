@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\bin\Debug\net5.0\02. English.exe
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\bin\Debug\net5.0\02. English.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\bin\Debug\net5.0\02. English.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\bin\Debug\net5.0\02. English.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\bin\Debug\net5.0\02. English.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\bin\Debug\net5.0\02. English.pdb
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\obj\Debug\net5.0\02. English.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\obj\Debug\net5.0\02. English.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\obj\Debug\net5.0\02. English.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\obj\Debug\net5.0\02. English.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\obj\Debug\net5.0\02. English.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\obj\Debug\net5.0\02. English.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\obj\Debug\net5.0\refint\02. English.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\obj\Debug\net5.0\02. English.pdb
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\obj\Debug\net5.0\02. English.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\02. English\obj\Debug\net5.0\ref\02. English.dll

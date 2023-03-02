@@ -1,0 +1,32 @@
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.exe
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\obj\Debug\net5.0\refint\01. Sort Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-More Exercise\01. Sort Numbers\obj\Debug\net5.0\ref\01. Sort Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.exe
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\obj\Debug\net5.0\refint\01. Sort Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\01. Sort Numbers\obj\Debug\net5.0\ref\01. Sort Numbers.dll

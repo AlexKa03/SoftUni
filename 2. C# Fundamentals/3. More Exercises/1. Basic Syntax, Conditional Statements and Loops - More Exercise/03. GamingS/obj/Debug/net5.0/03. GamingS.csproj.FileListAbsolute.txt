@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\bin\Debug\net5.0\03. GamingS.exe
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\bin\Debug\net5.0\03. GamingS.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\bin\Debug\net5.0\03. GamingS.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\bin\Debug\net5.0\03. GamingS.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\bin\Debug\net5.0\03. GamingS.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\bin\Debug\net5.0\03. GamingS.pdb
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\obj\Debug\net5.0\03. GamingS.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\obj\Debug\net5.0\03. GamingS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\obj\Debug\net5.0\03. GamingS.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\obj\Debug\net5.0\03. GamingS.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\obj\Debug\net5.0\03. GamingS.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\obj\Debug\net5.0\03. GamingS.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\obj\Debug\net5.0\refint\03. GamingS.dll
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\obj\Debug\net5.0\03. GamingS.pdb
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\obj\Debug\net5.0\03. GamingS.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\1. Basic Syntax,Conditional Statements and Loops-ME\03. GamingS\obj\Debug\net5.0\ref\03. GamingS.dll
