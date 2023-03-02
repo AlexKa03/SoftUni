@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\bin\Debug\net7.0\07. Equal Arrays.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\bin\Debug\net7.0\07. Equal Arrays.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\bin\Debug\net7.0\07. Equal Arrays.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\bin\Debug\net7.0\07. Equal Arrays.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\bin\Debug\net7.0\07. Equal Arrays.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\obj\Debug\net7.0\07. Equal Arrays.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\obj\Debug\net7.0\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\obj\Debug\net7.0\07. Equal Arrays.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\obj\Debug\net7.0\07. Equal Arrays.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\obj\Debug\net7.0\07. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\obj\Debug\net7.0\07. Equal Arrays.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\obj\Debug\net7.0\refint\07. Equal Arrays.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\obj\Debug\net7.0\07. Equal Arrays.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\obj\Debug\net7.0\07. Equal Arrays.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\07. Equal Arrays\obj\Debug\net7.0\ref\07. Equal Arrays.dll
