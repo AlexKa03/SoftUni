@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\bin\Debug\net7.0\06. Middle Characters.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\bin\Debug\net7.0\06. Middle Characters.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\bin\Debug\net7.0\06. Middle Characters.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\bin\Debug\net7.0\06. Middle Characters.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\bin\Debug\net7.0\06. Middle Characters.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\obj\Debug\net7.0\06. Middle Characters.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\obj\Debug\net7.0\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\obj\Debug\net7.0\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\obj\Debug\net7.0\06. Middle Characters.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\obj\Debug\net7.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\obj\Debug\net7.0\06. Middle Characters.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\obj\Debug\net7.0\refint\06. Middle Characters.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\obj\Debug\net7.0\06. Middle Characters.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\obj\Debug\net7.0\06. Middle Characters.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\06. Middle Characters\obj\Debug\net7.0\ref\06. Middle Characters.dll

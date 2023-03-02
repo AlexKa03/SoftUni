@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\bin\Debug\net7.0\05. Add and Subtract.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\bin\Debug\net7.0\05. Add and Subtract.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\bin\Debug\net7.0\05. Add and Subtract.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\bin\Debug\net7.0\05. Add and Subtract.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\bin\Debug\net7.0\05. Add and Subtract.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\obj\Debug\net7.0\05. Add and Subtract.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\obj\Debug\net7.0\05. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\obj\Debug\net7.0\05. Add and Subtract.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\obj\Debug\net7.0\05. Add and Subtract.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\obj\Debug\net7.0\05. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\obj\Debug\net7.0\05. Add and Subtract.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\obj\Debug\net7.0\refint\05. Add and Subtract.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\obj\Debug\net7.0\05. Add and Subtract.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\obj\Debug\net7.0\05. Add and Subtract.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\05. Add and Subtract\obj\Debug\net7.0\ref\05. Add and Subtract.dll
