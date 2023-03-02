@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\bin\Debug\net7.0\02. Vowels Count.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\bin\Debug\net7.0\02. Vowels Count.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\bin\Debug\net7.0\02. Vowels Count.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\bin\Debug\net7.0\02. Vowels Count.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\bin\Debug\net7.0\02. Vowels Count.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\obj\Debug\net7.0\02. Vowels Count.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\obj\Debug\net7.0\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\obj\Debug\net7.0\02. Vowels Count.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\obj\Debug\net7.0\02. Vowels Count.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\obj\Debug\net7.0\02. Vowels Count.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\obj\Debug\net7.0\02. Vowels Count.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\obj\Debug\net7.0\refint\02. Vowels Count.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\obj\Debug\net7.0\02. Vowels Count.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\obj\Debug\net7.0\02. Vowels Count.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\02. Vowels Count\obj\Debug\net7.0\ref\02. Vowels Count.dll
