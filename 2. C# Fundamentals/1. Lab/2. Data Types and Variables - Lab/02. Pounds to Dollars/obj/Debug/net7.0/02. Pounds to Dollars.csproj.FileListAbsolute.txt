@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net7.0\02. Pounds to Dollars.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net7.0\02. Pounds to Dollars.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net7.0\02. Pounds to Dollars.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net7.0\02. Pounds to Dollars.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net7.0\02. Pounds to Dollars.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net7.0\02. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net7.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net7.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net7.0\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net7.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net7.0\02. Pounds to Dollars.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net7.0\refint\02. Pounds to Dollars.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net7.0\02. Pounds to Dollars.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net7.0\02. Pounds to Dollars.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net7.0\ref\02. Pounds to Dollars.dll

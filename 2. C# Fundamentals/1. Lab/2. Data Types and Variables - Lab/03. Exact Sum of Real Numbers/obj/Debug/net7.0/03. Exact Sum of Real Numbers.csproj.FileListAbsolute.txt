@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net7.0\03. Exact Sum of Real Numbers.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net7.0\03. Exact Sum of Real Numbers.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net7.0\03. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net7.0\03. Exact Sum of Real Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net7.0\03. Exact Sum of Real Numbers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net7.0\03. Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net7.0\03. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net7.0\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net7.0\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net7.0\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net7.0\03. Exact Sum of Real Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net7.0\refint\03. Exact Sum of Real Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net7.0\03. Exact Sum of Real Numbers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net7.0\03. Exact Sum of Real Numbers.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\2. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net7.0\ref\03. Exact Sum of Real Numbers.dll
