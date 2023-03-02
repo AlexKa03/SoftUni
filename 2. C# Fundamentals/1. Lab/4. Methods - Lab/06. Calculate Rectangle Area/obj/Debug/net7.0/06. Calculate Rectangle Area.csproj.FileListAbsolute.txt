@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net7.0\06. Calculate Rectangle Area.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net7.0\06. Calculate Rectangle Area.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net7.0\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net7.0\06. Calculate Rectangle Area.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net7.0\06. Calculate Rectangle Area.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net7.0\06. Calculate Rectangle Area.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net7.0\06. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net7.0\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net7.0\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net7.0\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net7.0\06. Calculate Rectangle Area.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net7.0\refint\06. Calculate Rectangle Area.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net7.0\06. Calculate Rectangle Area.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net7.0\06. Calculate Rectangle Area.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net7.0\ref\06. Calculate Rectangle Area.dll

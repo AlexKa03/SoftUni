@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\bin\Debug\net7.0\04. Printing Triangle.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\bin\Debug\net7.0\04. Printing Triangle.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\bin\Debug\net7.0\04. Printing Triangle.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\bin\Debug\net7.0\04. Printing Triangle.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\bin\Debug\net7.0\04. Printing Triangle.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\obj\Debug\net7.0\04. Printing Triangle.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\obj\Debug\net7.0\04. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\obj\Debug\net7.0\04. Printing Triangle.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\obj\Debug\net7.0\04. Printing Triangle.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\obj\Debug\net7.0\04. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\obj\Debug\net7.0\04. Printing Triangle.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\obj\Debug\net7.0\refint\04. Printing Triangle.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\obj\Debug\net7.0\04. Printing Triangle.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\obj\Debug\net7.0\04. Printing Triangle.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\04. Printing Triangle\obj\Debug\net7.0\ref\04. Printing Triangle.dll
