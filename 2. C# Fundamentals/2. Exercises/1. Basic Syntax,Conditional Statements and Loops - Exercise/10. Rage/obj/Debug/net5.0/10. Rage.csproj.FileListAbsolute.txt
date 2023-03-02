@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\bin\Debug\net5.0\10. Rage.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\bin\Debug\net5.0\10. Rage.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\bin\Debug\net5.0\10. Rage.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\bin\Debug\net5.0\10. Rage.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\bin\Debug\net5.0\10. Rage.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\bin\Debug\net5.0\10. Rage.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\obj\Debug\net5.0\10. Rage.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\obj\Debug\net5.0\10. Rage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\obj\Debug\net5.0\10. Rage.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\obj\Debug\net5.0\10. Rage.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\obj\Debug\net5.0\10. Rage.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\obj\Debug\net5.0\10. Rage.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\obj\Debug\net5.0\refint\10. Rage.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\obj\Debug\net5.0\10. Rage.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\obj\Debug\net5.0\10. Rage.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\10. Rage\obj\Debug\net5.0\ref\10. Rage.dll
