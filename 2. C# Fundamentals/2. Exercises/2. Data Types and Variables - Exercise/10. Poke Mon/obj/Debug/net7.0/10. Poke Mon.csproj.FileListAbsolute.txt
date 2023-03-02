@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net7.0\10. Poke Mon.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net7.0\10. Poke Mon.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net7.0\10. Poke Mon.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net7.0\10. Poke Mon.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net7.0\10. Poke Mon.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net7.0\10. Poke Mon.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net7.0\10. Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net7.0\10. Poke Mon.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net7.0\10. Poke Mon.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net7.0\10. Poke Mon.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net7.0\10. Poke Mon.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net7.0\refint\10. Poke Mon.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net7.0\10. Poke Mon.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net7.0\10. Poke Mon.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net7.0\ref\10. Poke Mon.dll
