@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\net7.0\06. Even and Odd Subtraction.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\net7.0\06. Even and Odd Subtraction.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\net7.0\06. Even and Odd Subtraction.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\net7.0\06. Even and Odd Subtraction.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\net7.0\06. Even and Odd Subtraction.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net7.0\06. Even and Odd Subtraction.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net7.0\06. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net7.0\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net7.0\06. Even and Odd Subtraction.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net7.0\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net7.0\06. Even and Odd Subtraction.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net7.0\refint\06. Even and Odd Subtraction.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net7.0\06. Even and Odd Subtraction.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net7.0\06. Even and Odd Subtraction.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\3. Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net7.0\ref\06. Even and Odd Subtraction.dll
