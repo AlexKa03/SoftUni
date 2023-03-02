@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\obj\Debug\net5.0\refint\13. Holidays Between Two Dates.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\13. Holidays Between Two Dates\obj\Debug\net5.0\ref\13. Holidays Between Two Dates.dll
