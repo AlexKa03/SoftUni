@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\bin\Debug\net5.0\06. StrongN.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\bin\Debug\net5.0\06. StrongN.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\bin\Debug\net5.0\06. StrongN.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\bin\Debug\net5.0\06. StrongN.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\bin\Debug\net5.0\06. StrongN.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\bin\Debug\net5.0\06. StrongN.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\obj\Debug\net5.0\06. StrongN.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\obj\Debug\net5.0\06. StrongN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\obj\Debug\net5.0\06. StrongN.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\obj\Debug\net5.0\06. StrongN.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\obj\Debug\net5.0\06. StrongN.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\obj\Debug\net5.0\06. StrongN.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\obj\Debug\net5.0\refint\06. StrongN.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\obj\Debug\net5.0\06. StrongN.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\obj\Debug\net5.0\06. StrongN.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\06. StrongN\obj\Debug\net5.0\ref\06. StrongN.dll
