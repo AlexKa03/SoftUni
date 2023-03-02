@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\obj\Debug\net5.0\refint\12. Even Number.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\1. Basic Syntax,Conditional Statements and Loops-Lab\12. Even Number\obj\Debug\net5.0\ref\12. Even Number.dll
