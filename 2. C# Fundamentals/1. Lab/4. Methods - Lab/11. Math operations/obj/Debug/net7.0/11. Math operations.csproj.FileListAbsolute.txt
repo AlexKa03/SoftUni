@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\bin\Debug\net7.0\11. Math operations.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\bin\Debug\net7.0\11. Math operations.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\bin\Debug\net7.0\11. Math operations.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\bin\Debug\net7.0\11. Math operations.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\bin\Debug\net7.0\11. Math operations.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\obj\Debug\net7.0\11. Math operations.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\obj\Debug\net7.0\11. Math operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\obj\Debug\net7.0\11. Math operations.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\obj\Debug\net7.0\11. Math operations.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\obj\Debug\net7.0\11. Math operations.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\obj\Debug\net7.0\11. Math operations.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\obj\Debug\net7.0\refint\11. Math operations.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\obj\Debug\net7.0\11. Math operations.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\obj\Debug\net7.0\11. Math operations.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\11. Math operations\obj\Debug\net7.0\ref\11. Math operations.dll
