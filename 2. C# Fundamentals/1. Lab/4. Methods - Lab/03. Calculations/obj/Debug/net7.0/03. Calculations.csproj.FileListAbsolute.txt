@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\bin\Debug\net7.0\03. Calculations.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\bin\Debug\net7.0\03. Calculations.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\bin\Debug\net7.0\03. Calculations.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\bin\Debug\net7.0\03. Calculations.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\bin\Debug\net7.0\03. Calculations.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\obj\Debug\net7.0\03. Calculations.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\obj\Debug\net7.0\03. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\obj\Debug\net7.0\03. Calculations.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\obj\Debug\net7.0\03. Calculations.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\obj\Debug\net7.0\03. Calculations.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\obj\Debug\net7.0\03. Calculations.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\obj\Debug\net7.0\refint\03. Calculations.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\obj\Debug\net7.0\03. Calculations.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\obj\Debug\net7.0\03. Calculations.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\03. Calculations\obj\Debug\net7.0\ref\03. Calculations.dll

@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net7.0\01. Sign of Integer Numbers.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net7.0\01. Sign of Integer Numbers.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net7.0\01. Sign of Integer Numbers.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net7.0\01. Sign of Integer Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net7.0\01. Sign of Integer Numbers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net7.0\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net7.0\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net7.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net7.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net7.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net7.0\01. Sign of Integer Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net7.0\refint\01. Sign of Integer Numbers.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net7.0\01. Sign of Integer Numbers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net7.0\01. Sign of Integer Numbers.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net7.0\ref\01. Sign of Integer Numbers.dll

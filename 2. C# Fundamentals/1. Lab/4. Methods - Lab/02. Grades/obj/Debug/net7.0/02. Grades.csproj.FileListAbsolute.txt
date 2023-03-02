@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\bin\Debug\net7.0\02. Grades.exe
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\bin\Debug\net7.0\02. Grades.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\bin\Debug\net7.0\02. Grades.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\bin\Debug\net7.0\02. Grades.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\bin\Debug\net7.0\02. Grades.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\obj\Debug\net7.0\02. Grades.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\obj\Debug\net7.0\02. Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\obj\Debug\net7.0\02. Grades.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\obj\Debug\net7.0\02. Grades.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\obj\Debug\net7.0\02. Grades.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\obj\Debug\net7.0\02. Grades.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\obj\Debug\net7.0\refint\02. Grades.dll
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\obj\Debug\net7.0\02. Grades.pdb
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\obj\Debug\net7.0\02. Grades.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\1 Lab\4. Methods - Lab\02. Grades\obj\Debug\net7.0\ref\02. Grades.dll
