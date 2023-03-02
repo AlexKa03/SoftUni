@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net7.0\09. Spice Must Flow.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net7.0\09. Spice Must Flow.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net7.0\09. Spice Must Flow.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net7.0\09. Spice Must Flow.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net7.0\09. Spice Must Flow.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net7.0\09. Spice Must Flow.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net7.0\09. Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net7.0\09. Spice Must Flow.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net7.0\09. Spice Must Flow.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net7.0\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net7.0\09. Spice Must Flow.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net7.0\refint\09. Spice Must Flow.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net7.0\09. Spice Must Flow.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net7.0\09. Spice Must Flow.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net7.0\ref\09. Spice Must Flow.dll
