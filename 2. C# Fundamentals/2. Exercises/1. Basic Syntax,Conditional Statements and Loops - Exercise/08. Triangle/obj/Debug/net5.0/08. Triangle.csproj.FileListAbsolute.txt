@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\bin\Debug\net5.0\08. Triangle.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\bin\Debug\net5.0\08. Triangle.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\bin\Debug\net5.0\08. Triangle.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\bin\Debug\net5.0\08. Triangle.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\bin\Debug\net5.0\08. Triangle.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\bin\Debug\net5.0\08. Triangle.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\obj\Debug\net5.0\08. Triangle.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\obj\Debug\net5.0\08. Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\obj\Debug\net5.0\08. Triangle.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\obj\Debug\net5.0\08. Triangle.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\obj\Debug\net5.0\08. Triangle.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\obj\Debug\net5.0\08. Triangle.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\obj\Debug\net5.0\refint\08. Triangle.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\obj\Debug\net5.0\08. Triangle.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\obj\Debug\net5.0\08. Triangle.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\08. Triangle\obj\Debug\net5.0\ref\08. Triangle.dll

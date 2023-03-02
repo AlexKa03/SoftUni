@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\bin\Debug\net5.0\07. VendingM.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\bin\Debug\net5.0\07. VendingM.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\bin\Debug\net5.0\07. VendingM.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\bin\Debug\net5.0\07. VendingM.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\bin\Debug\net5.0\07. VendingM.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\bin\Debug\net5.0\07. VendingM.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\obj\Debug\net5.0\07. VendingM.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\obj\Debug\net5.0\07. VendingM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\obj\Debug\net5.0\07. VendingM.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\obj\Debug\net5.0\07. VendingM.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\obj\Debug\net5.0\07. VendingM.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\obj\Debug\net5.0\07. VendingM.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\obj\Debug\net5.0\refint\07. VendingM.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\obj\Debug\net5.0\07. VendingM.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\obj\Debug\net5.0\07. VendingM.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\07. VendingM\obj\Debug\net5.0\ref\07. VendingM.dll

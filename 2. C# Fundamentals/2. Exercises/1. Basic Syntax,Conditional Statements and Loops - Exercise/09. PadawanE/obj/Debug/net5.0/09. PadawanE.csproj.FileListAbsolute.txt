@@ -1,0 +1,16 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\bin\Debug\net5.0\09. PadawanE.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\bin\Debug\net5.0\09. PadawanE.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\bin\Debug\net5.0\09. PadawanE.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\bin\Debug\net5.0\09. PadawanE.runtimeconfig.dev.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\bin\Debug\net5.0\09. PadawanE.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\bin\Debug\net5.0\09. PadawanE.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\obj\Debug\net5.0\09. PadawanE.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\obj\Debug\net5.0\09. PadawanE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\obj\Debug\net5.0\09. PadawanE.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\obj\Debug\net5.0\09. PadawanE.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\obj\Debug\net5.0\09. PadawanE.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\obj\Debug\net5.0\09. PadawanE.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\obj\Debug\net5.0\refint\09. PadawanE.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\obj\Debug\net5.0\09. PadawanE.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\obj\Debug\net5.0\09. PadawanE.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\1. Basic Syntax,Conditional Statements and Loops-Exercise\09. PadawanE\obj\Debug\net5.0\ref\09. PadawanE.dll
