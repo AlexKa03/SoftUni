@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\bin\Debug\net7.0\07. NxN Matrix.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\bin\Debug\net7.0\07. NxN Matrix.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\bin\Debug\net7.0\07. NxN Matrix.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\bin\Debug\net7.0\07. NxN Matrix.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\bin\Debug\net7.0\07. NxN Matrix.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\obj\Debug\net7.0\07. NxN Matrix.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\obj\Debug\net7.0\07. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\obj\Debug\net7.0\07. NxN Matrix.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\obj\Debug\net7.0\07. NxN Matrix.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\obj\Debug\net7.0\07. NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\obj\Debug\net7.0\07. NxN Matrix.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\obj\Debug\net7.0\refint\07. NxN Matrix.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\obj\Debug\net7.0\07. NxN Matrix.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\obj\Debug\net7.0\07. NxN Matrix.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\07. NxN Matrix\obj\Debug\net7.0\ref\07. NxN Matrix.dll

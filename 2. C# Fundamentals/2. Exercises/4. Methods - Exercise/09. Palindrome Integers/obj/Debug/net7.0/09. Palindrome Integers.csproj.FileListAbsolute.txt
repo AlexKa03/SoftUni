@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\bin\Debug\net7.0\09. Palindrome Integers.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\bin\Debug\net7.0\09. Palindrome Integers.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\bin\Debug\net7.0\09. Palindrome Integers.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\bin\Debug\net7.0\09. Palindrome Integers.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\bin\Debug\net7.0\09. Palindrome Integers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\obj\Debug\net7.0\09. Palindrome Integers.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\obj\Debug\net7.0\09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\obj\Debug\net7.0\09. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\obj\Debug\net7.0\09. Palindrome Integers.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\obj\Debug\net7.0\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\obj\Debug\net7.0\09. Palindrome Integers.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\obj\Debug\net7.0\refint\09. Palindrome Integers.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\obj\Debug\net7.0\09. Palindrome Integers.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\obj\Debug\net7.0\09. Palindrome Integers.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\4. Methods - Exercise\09. Palindrome Integers\obj\Debug\net7.0\ref\09. Palindrome Integers.dll
