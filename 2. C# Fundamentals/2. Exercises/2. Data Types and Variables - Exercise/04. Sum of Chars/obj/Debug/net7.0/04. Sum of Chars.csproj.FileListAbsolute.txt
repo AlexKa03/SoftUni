@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\net7.0\04. Sum of Chars.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\net7.0\04. Sum of Chars.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\net7.0\04. Sum of Chars.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\net7.0\04. Sum of Chars.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\net7.0\04. Sum of Chars.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\net7.0\04. Sum of Chars.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\net7.0\04. Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\net7.0\04. Sum of Chars.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\net7.0\04. Sum of Chars.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\net7.0\04. Sum of Chars.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\net7.0\04. Sum of Chars.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\net7.0\refint\04. Sum of Chars.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\net7.0\04. Sum of Chars.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\net7.0\04. Sum of Chars.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\net7.0\ref\04. Sum of Chars.dll
