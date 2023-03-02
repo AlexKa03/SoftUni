@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net7.0\02. Sum Digits.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net7.0\02. Sum Digits.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net7.0\02. Sum Digits.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net7.0\02. Sum Digits.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net7.0\02. Sum Digits.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net7.0\02. Sum Digits.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net7.0\02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net7.0\02. Sum Digits.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net7.0\02. Sum Digits.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net7.0\02. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net7.0\02. Sum Digits.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net7.0\refint\02. Sum Digits.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net7.0\02. Sum Digits.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net7.0\02. Sum Digits.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net7.0\ref\02. Sum Digits.dll

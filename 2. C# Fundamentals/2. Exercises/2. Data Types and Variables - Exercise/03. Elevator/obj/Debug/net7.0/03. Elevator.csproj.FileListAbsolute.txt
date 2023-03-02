@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\bin\Debug\net7.0\03. Elevator.exe
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\bin\Debug\net7.0\03. Elevator.deps.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\bin\Debug\net7.0\03. Elevator.runtimeconfig.json
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\bin\Debug\net7.0\03. Elevator.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\bin\Debug\net7.0\03. Elevator.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\obj\Debug\net7.0\03. Elevator.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\obj\Debug\net7.0\03. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\obj\Debug\net7.0\03. Elevator.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\obj\Debug\net7.0\03. Elevator.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\obj\Debug\net7.0\03. Elevator.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\obj\Debug\net7.0\03. Elevator.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\obj\Debug\net7.0\refint\03. Elevator.dll
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\obj\Debug\net7.0\03. Elevator.pdb
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\obj\Debug\net7.0\03. Elevator.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\Fundamentals\2 Exercises\2. Data Types and Variables - Exercise\03. Elevator\obj\Debug\net7.0\ref\03. Elevator.dll
