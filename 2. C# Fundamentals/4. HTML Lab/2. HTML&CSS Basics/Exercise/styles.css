@@ -1,0 +1,35 @@
+body {
+    background: lightslategray;
+}
+
+#second-heading {
+    font-size: 25px;
+    color: rgb(0, 8, 255);
+    font-family: "Helvetica", sans-serif;
+}
+
+.red {
+    color: red;
+    border: 1px solid black;
+}
+
+button {
+    color: white;
+    text-transform: uppercase;
+    background: #055442;
+    border: none;
+    padding: 6px;
+    border-radius: 11px;
+    letter-spacing: 3px;
+}
+
+button:hover {
+    background: white;
+    border: 1px solid #055442;
+    color: #055442;
+    cursor: pointer;
+}
+
+h1.green {
+    color: rgb(0, 255, 0);
+}

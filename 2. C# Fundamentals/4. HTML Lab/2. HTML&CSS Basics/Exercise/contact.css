@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#first-heading {
+    background: url('20230201_134015.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    color: rgb(208, 43, 43);
+    text-align: center;
+    padding: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+}
