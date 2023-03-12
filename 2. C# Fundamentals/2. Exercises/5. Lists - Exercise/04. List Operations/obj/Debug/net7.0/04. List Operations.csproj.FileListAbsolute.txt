@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\bin\Debug\net7.0\04. List Operations.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\bin\Debug\net7.0\04. List Operations.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\bin\Debug\net7.0\04. List Operations.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\bin\Debug\net7.0\04. List Operations.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\bin\Debug\net7.0\04. List Operations.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\obj\Debug\net7.0\04. List Operations.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\obj\Debug\net7.0\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\obj\Debug\net7.0\04. List Operations.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\obj\Debug\net7.0\04. List Operations.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\obj\Debug\net7.0\04. List Operations.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\obj\Debug\net7.0\04. List Operations.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\obj\Debug\net7.0\refint\04. List Operations.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\obj\Debug\net7.0\04. List Operations.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\obj\Debug\net7.0\04. List Operations.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\04. List Operations\obj\Debug\net7.0\ref\04. List Operations.dll

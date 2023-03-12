@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\bin\Debug\net7.0\06. Cards Game.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\bin\Debug\net7.0\06. Cards Game.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\bin\Debug\net7.0\06. Cards Game.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\bin\Debug\net7.0\06. Cards Game.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\bin\Debug\net7.0\06. Cards Game.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\obj\Debug\net7.0\06. Cards Game.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\obj\Debug\net7.0\06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\obj\Debug\net7.0\06. Cards Game.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\obj\Debug\net7.0\06. Cards Game.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\obj\Debug\net7.0\06. Cards Game.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\obj\Debug\net7.0\06. Cards Game.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\obj\Debug\net7.0\refint\06. Cards Game.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\obj\Debug\net7.0\06. Cards Game.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\obj\Debug\net7.0\06. Cards Game.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\06. Cards Game\obj\Debug\net7.0\ref\06. Cards Game.dll

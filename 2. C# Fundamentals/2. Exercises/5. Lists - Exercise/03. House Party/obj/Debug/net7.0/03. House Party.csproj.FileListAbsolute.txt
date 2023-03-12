@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\bin\Debug\net7.0\03. House Party.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\bin\Debug\net7.0\03. House Party.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\bin\Debug\net7.0\03. House Party.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\bin\Debug\net7.0\03. House Party.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\bin\Debug\net7.0\03. House Party.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\obj\Debug\net7.0\03. House Party.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\obj\Debug\net7.0\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\obj\Debug\net7.0\03. House Party.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\obj\Debug\net7.0\03. House Party.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\obj\Debug\net7.0\03. House Party.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\obj\Debug\net7.0\03. House Party.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\obj\Debug\net7.0\refint\03. House Party.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\obj\Debug\net7.0\03. House Party.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\obj\Debug\net7.0\03. House Party.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\5. Lists - Exercise\03. House Party\obj\Debug\net7.0\ref\03. House Party.dll
