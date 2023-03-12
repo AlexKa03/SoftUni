@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net7.0\06. Balanced Brackets.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net7.0\06. Balanced Brackets.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net7.0\06. Balanced Brackets.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net7.0\06. Balanced Brackets.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net7.0\06. Balanced Brackets.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net7.0\06. Balanced Brackets.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net7.0\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net7.0\06. Balanced Brackets.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net7.0\06. Balanced Brackets.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net7.0\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net7.0\06. Balanced Brackets.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net7.0\refint\06. Balanced Brackets.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net7.0\06. Balanced Brackets.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net7.0\06. Balanced Brackets.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net7.0\ref\06. Balanced Brackets.dll

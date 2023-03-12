@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net7.0\02. From Left to The Right.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net7.0\02. From Left to The Right.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net7.0\02. From Left to The Right.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net7.0\02. From Left to The Right.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net7.0\02. From Left to The Right.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net7.0\02. From Left to The Right.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net7.0\02. From Left to The Right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net7.0\02. From Left to The Right.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net7.0\02. From Left to The Right.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net7.0\02. From Left to The Right.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net7.0\02. From Left to The Right.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net7.0\refint\02. From Left to The Right.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net7.0\02. From Left to The Right.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net7.0\02. From Left to The Right.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net7.0\ref\02. From Left to The Right.dll

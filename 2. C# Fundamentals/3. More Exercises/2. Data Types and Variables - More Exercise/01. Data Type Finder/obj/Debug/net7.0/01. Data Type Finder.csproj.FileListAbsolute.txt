@@ -13,3 +13,18 @@ C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\2. Data Types and Variabl
 C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\01. Data Type Finder.pdb
 C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\01. Data Type Finder.genruntimeconfig.cache
 C:\Programing\SoftUni\C#\Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\ref\01. Data Type Finder.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net7.0\01. Data Type Finder.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net7.0\01. Data Type Finder.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net7.0\01. Data Type Finder.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net7.0\01. Data Type Finder.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net7.0\01. Data Type Finder.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\01. Data Type Finder.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\01. Data Type Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\01. Data Type Finder.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\01. Data Type Finder.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\01. Data Type Finder.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\01. Data Type Finder.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\refint\01. Data Type Finder.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\01. Data Type Finder.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\01. Data Type Finder.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\2. Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net7.0\ref\01. Data Type Finder.dll

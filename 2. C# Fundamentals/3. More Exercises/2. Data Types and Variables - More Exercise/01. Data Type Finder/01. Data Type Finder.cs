@@ -4,6 +4,7 @@
     {
         {
             string input = Console.ReadLine();
+
             int valueInt;
             float valueFloat;
             char valueChar;
@@ -15,7 +16,7 @@
                 {
                     Console.WriteLine($"{input} is integer type");
                 }
-                else if (float.TryParse(input,out valueFloat))
+                else if (float.TryParse(input, out valueFloat))
                 {
                     Console.WriteLine($"{input} is floating point type");
                 }
