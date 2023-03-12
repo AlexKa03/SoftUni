@@ -1,8 +1,12 @@
 ﻿
 # **More Exercise: Data Types and Variables**
+
+
 Problems for exercise and homework for the ["C# Fundamentals" course @ SoftUni](https://softuni.bg/trainings/3950/programming-fundamentals-with-csharp-january-2023)
 You can check your solutions in [Judge](https://judge.softuni.org/Contests/1271/Data-Types-and-Variables-More-Exercise)
-1. ## **Data Type Finder**
+
+## **1. Data Type Finder**
+
 You will receive input until you receive "**END**". Find what **data type** is the input. Possible data types are:
 
 - Integer 
@@ -18,7 +22,8 @@ Print the result in the following format: "**{input}** is **{data type}** type".
 | :-: | :-: |
 |<p>5</p><p>2\.5</p><p>true</p><p>END</p>|<p>5 is integer type</p><p>2\.5 is floating point type</p><p>true is boolean type</p>|
 |<p>a</p><p>asd</p><p>-5</p><p>END</p>|<p>a is character type</p><p>asd is string type</p><p>-5 is integer type</p>|
-**2. From Left to the Right**
+
+## **2. From Left to the Right**
 
 You will receive a number that represents how many lines we will get as input. On the next N lines, you will receive a string with 2 numbers, separated by a single space. You need to compare them. If the left number is greater than the right number, you need to print the sum of all digits in the left number, otherwise, print the sum of all digits in the right number.
 ### **Examples**
@@ -27,6 +32,7 @@ You will receive a number that represents how many lines we will get as input. O
 | :-: | :-: |
 |<p>2</p><p>1000 2000</p><p>2000 1000</p>|<p>2</p><p>2</p>|
 |<p>4</p><p>123456 2147483647</p><p>5000000 -500000</p><p>97766554 97766554</p><p>9999999999 8888888888</p>|<p>46</p><p>5</p><p>49</p><p>90</p>|
+
 ## **3. Floating Equality**
 Write a program that safely compares floating-point numbers (double) with precision eps = 0.000001. Note that we cannot directly compare two floating-point numbers **a** and **b** by a==b, because of the nature of the floating-point arithmetic. Therefore, we assume two numbers are equal if they are more close to each other than some fixed constant eps. 
 
