@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\bin\Debug\net7.0\05. Students 2.0.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\bin\Debug\net7.0\05. Students 2.0.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\bin\Debug\net7.0\05. Students 2.0.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\bin\Debug\net7.0\05. Students 2.0.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\bin\Debug\net7.0\05. Students 2.0.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\obj\Debug\net7.0\05. Students 2.0.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\obj\Debug\net7.0\05. Students 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\obj\Debug\net7.0\05. Students 2.0.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\obj\Debug\net7.0\05. Students 2.0.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\obj\Debug\net7.0\05. Students 2.0.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\obj\Debug\net7.0\05. Students 2.0.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\obj\Debug\net7.0\refint\05. Students 2.0.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\obj\Debug\net7.0\05. Students 2.0.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\obj\Debug\net7.0\05. Students 2.0.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\6. Objects and Classes - Lab\05. Students 2.0\obj\Debug\net7.0\ref\05. Students 2.0.dll
