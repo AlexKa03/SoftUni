@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\1 Lab\\6. Objects and Classes - Lab\\03. Songs\\03. Songs.csproj": {}
+    "C:\\Programing\\GitHub repo\\SoftUni_CSharp\\2. C# Fundamentals\\1. Lab\\6. Objects and Classes - Lab\\03. Songs\\03. Songs.csproj": {}
   },
   "projects": {
-    "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\1 Lab\\6. Objects and Classes - Lab\\03. Songs\\03. Songs.csproj": {
+    "C:\\Programing\\GitHub repo\\SoftUni_CSharp\\2. C# Fundamentals\\1. Lab\\6. Objects and Classes - Lab\\03. Songs\\03. Songs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\1 Lab\\6. Objects and Classes - Lab\\03. Songs\\03. Songs.csproj",
+        "projectUniqueName": "C:\\Programing\\GitHub repo\\SoftUni_CSharp\\2. C# Fundamentals\\1. Lab\\6. Objects and Classes - Lab\\03. Songs\\03. Songs.csproj",
         "projectName": "03. Songs",
-        "projectPath": "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\1 Lab\\6. Objects and Classes - Lab\\03. Songs\\03. Songs.csproj",
+        "projectPath": "C:\\Programing\\GitHub repo\\SoftUni_CSharp\\2. C# Fundamentals\\1. Lab\\6. Objects and Classes - Lab\\03. Songs\\03. Songs.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\1 Lab\\6. Objects and Classes - Lab\\03. Songs\\obj\\",
+        "outputPath": "C:\\Programing\\GitHub repo\\SoftUni_CSharp\\2. C# Fundamentals\\1. Lab\\6. Objects and Classes - Lab\\03. Songs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
