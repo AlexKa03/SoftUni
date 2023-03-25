@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\bin\Debug\net7.0\02. Articles.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\bin\Debug\net7.0\02. Articles.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\bin\Debug\net7.0\02. Articles.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\bin\Debug\net7.0\02. Articles.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\bin\Debug\net7.0\02. Articles.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\obj\Debug\net7.0\02. Articles.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\obj\Debug\net7.0\02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\obj\Debug\net7.0\02. Articles.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\obj\Debug\net7.0\02. Articles.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\obj\Debug\net7.0\02. Articles.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\obj\Debug\net7.0\02. Articles.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\obj\Debug\net7.0\refint\02. Articles.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\obj\Debug\net7.0\02. Articles.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\obj\Debug\net7.0\02. Articles.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\02. Articles\obj\Debug\net7.0\ref\02. Articles.dll

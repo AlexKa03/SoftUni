@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net7.0\01. Advertisement Message.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net7.0\01. Advertisement Message.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net7.0\01. Advertisement Message.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net7.0\01. Advertisement Message.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net7.0\01. Advertisement Message.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net7.0\01. Advertisement Message.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net7.0\01. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net7.0\01. Advertisement Message.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net7.0\01. Advertisement Message.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net7.0\01. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net7.0\01. Advertisement Message.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net7.0\refint\01. Advertisement Message.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net7.0\01. Advertisement Message.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net7.0\01. Advertisement Message.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\6. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net7.0\ref\01. Advertisement Message.dll

@@ -6,9 +6,11 @@ class Program
     {
         string command = "";
         var students = new List<Student>();
+
         while ((command = Console.ReadLine()) != "end")
         {
             string[] array = command.Split();
+
             string firstName = array[0];
             string lastName = array[1];
             int age = int.Parse(array[2]);
@@ -16,7 +18,6 @@ class Program
 
             if (IsStudentExisting(students, firstName, lastName))
             {
-
                 var student = GetStudent(students, firstName, lastName, age);
             }
             else
@@ -27,11 +28,12 @@ class Program
                     LastName = lastName,
                     Age = age,
                     City = city,
-
                 };
+
                 students.Add(student);
             }
         }
+
         string filterCity = Console.ReadLine();
         var filteredStudents = students.Where(s => s.City == filterCity).ToList();
 
