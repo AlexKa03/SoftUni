@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net7.0\02. Pascal Triangle.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net7.0\02. Pascal Triangle.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net7.0\02. Pascal Triangle.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net7.0\02. Pascal Triangle.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net7.0\02. Pascal Triangle.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net7.0\02. Pascal Triangle.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net7.0\02. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net7.0\02. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net7.0\02. Pascal Triangle.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net7.0\02. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net7.0\02. Pascal Triangle.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net7.0\refint\02. Pascal Triangle.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net7.0\02. Pascal Triangle.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net7.0\02. Pascal Triangle.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net7.0\ref\02. Pascal Triangle.dll

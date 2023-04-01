@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net7.0\01. Encrypt, Sort and Print Array.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net7.0\01. Encrypt, Sort and Print Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net7.0\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net7.0\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net7.0\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net7.0\01. Encrypt, Sort and Print Array.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net7.0\01. Encrypt, Sort and Print Array.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net7.0\01. Encrypt, Sort and Print Array.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net7.0\01. Encrypt, Sort and Print Array.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net7.0\01. Encrypt, Sort and Print Array.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net7.0\01. Encrypt, Sort and Print Array.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net7.0\refint\01. Encrypt, Sort and Print Array.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net7.0\01. Encrypt, Sort and Print Array.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net7.0\01. Encrypt, Sort and Print Array.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net7.0\ref\01. Encrypt, Sort and Print Array.dll

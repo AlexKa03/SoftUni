@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\bin\Debug\net7.0\04. Fold and Sum.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\bin\Debug\net7.0\04. Fold and Sum.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\bin\Debug\net7.0\04. Fold and Sum.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\bin\Debug\net7.0\04. Fold and Sum.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\bin\Debug\net7.0\04. Fold and Sum.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\obj\Debug\net7.0\04. Fold and Sum.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\obj\Debug\net7.0\04. Fold and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\obj\Debug\net7.0\04. Fold and Sum.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\obj\Debug\net7.0\04. Fold and Sum.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\obj\Debug\net7.0\04. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\obj\Debug\net7.0\04. Fold and Sum.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\obj\Debug\net7.0\refint\04. Fold and Sum.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\obj\Debug\net7.0\04. Fold and Sum.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\obj\Debug\net7.0\04. Fold and Sum.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\3. Arrays - More Exercise\04. Fold and Sum\obj\Debug\net7.0\ref\04. Fold and Sum.dll
