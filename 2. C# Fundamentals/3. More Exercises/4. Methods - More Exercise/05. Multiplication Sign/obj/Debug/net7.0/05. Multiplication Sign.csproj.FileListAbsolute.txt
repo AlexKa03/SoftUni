@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\bin\Debug\net7.0\05. Multiplication Sign.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\bin\Debug\net7.0\05. Multiplication Sign.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\bin\Debug\net7.0\05. Multiplication Sign.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\bin\Debug\net7.0\05. Multiplication Sign.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\bin\Debug\net7.0\05. Multiplication Sign.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\obj\Debug\net7.0\05. Multiplication Sign.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\obj\Debug\net7.0\05. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\obj\Debug\net7.0\05. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\obj\Debug\net7.0\05. Multiplication Sign.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\obj\Debug\net7.0\05. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\obj\Debug\net7.0\05. Multiplication Sign.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\obj\Debug\net7.0\refint\05. Multiplication Sign.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\obj\Debug\net7.0\05. Multiplication Sign.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\obj\Debug\net7.0\05. Multiplication Sign.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\05. Multiplication Sign\obj\Debug\net7.0\ref\05. Multiplication Sign.dll

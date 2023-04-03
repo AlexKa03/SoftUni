@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\bin\Debug\net7.0\03. Longer Line.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\bin\Debug\net7.0\03. Longer Line.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\bin\Debug\net7.0\03. Longer Line.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\bin\Debug\net7.0\03. Longer Line.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\bin\Debug\net7.0\03. Longer Line.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\obj\Debug\net7.0\03. Longer Line.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\obj\Debug\net7.0\03. Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\obj\Debug\net7.0\03. Longer Line.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\obj\Debug\net7.0\03. Longer Line.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\obj\Debug\net7.0\03. Longer Line.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\obj\Debug\net7.0\03. Longer Line.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\obj\Debug\net7.0\refint\03. Longer Line.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\obj\Debug\net7.0\03. Longer Line.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\obj\Debug\net7.0\03. Longer Line.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\03. Longer Line\obj\Debug\net7.0\ref\03. Longer Line.dll

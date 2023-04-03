@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\bin\Debug\net7.0\02. Center Point.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\bin\Debug\net7.0\02. Center Point.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\bin\Debug\net7.0\02. Center Point.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\bin\Debug\net7.0\02. Center Point.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\bin\Debug\net7.0\02. Center Point.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\obj\Debug\net7.0\02. Center Point.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\obj\Debug\net7.0\02. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\obj\Debug\net7.0\02. Center Point.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\obj\Debug\net7.0\02. Center Point.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\obj\Debug\net7.0\02. Center Point.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\obj\Debug\net7.0\02. Center Point.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\obj\Debug\net7.0\refint\02. Center Point.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\obj\Debug\net7.0\02. Center Point.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\obj\Debug\net7.0\02. Center Point.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\4. Methods - More Exercise\02. Center Point\obj\Debug\net7.0\ref\02. Center Point.dll
