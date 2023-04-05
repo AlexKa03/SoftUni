@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\bin\Debug\net7.0\02. Car Race.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\bin\Debug\net7.0\02. Car Race.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\bin\Debug\net7.0\02. Car Race.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\bin\Debug\net7.0\02. Car Race.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\bin\Debug\net7.0\02. Car Race.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\obj\Debug\net7.0\02. Car Race.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\obj\Debug\net7.0\02. Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\obj\Debug\net7.0\02. Car Race.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\obj\Debug\net7.0\02. Car Race.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\obj\Debug\net7.0\02. Car Race.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\obj\Debug\net7.0\02. Car Race.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\obj\Debug\net7.0\refint\02. Car Race.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\obj\Debug\net7.0\02. Car Race.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\obj\Debug\net7.0\02. Car Race.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\02. Car Race\obj\Debug\net7.0\ref\02. Car Race.dll

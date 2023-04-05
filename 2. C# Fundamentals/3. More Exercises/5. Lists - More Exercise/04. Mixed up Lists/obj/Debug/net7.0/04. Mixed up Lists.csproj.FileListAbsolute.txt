@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\bin\Debug\net7.0\04. Mixed up Lists.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\bin\Debug\net7.0\04. Mixed up Lists.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\bin\Debug\net7.0\04. Mixed up Lists.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\bin\Debug\net7.0\04. Mixed up Lists.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\bin\Debug\net7.0\04. Mixed up Lists.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\obj\Debug\net7.0\04. Mixed up Lists.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\obj\Debug\net7.0\04. Mixed up Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\obj\Debug\net7.0\04. Mixed up Lists.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\obj\Debug\net7.0\04. Mixed up Lists.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\obj\Debug\net7.0\04. Mixed up Lists.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\obj\Debug\net7.0\04. Mixed up Lists.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\obj\Debug\net7.0\refint\04. Mixed up Lists.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\obj\Debug\net7.0\04. Mixed up Lists.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\obj\Debug\net7.0\04. Mixed up Lists.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\04. Mixed up Lists\obj\Debug\net7.0\ref\04. Mixed up Lists.dll

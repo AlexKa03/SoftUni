@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\bin\Debug\net7.0\05. Drum Set.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\bin\Debug\net7.0\05. Drum Set.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\bin\Debug\net7.0\05. Drum Set.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\bin\Debug\net7.0\05. Drum Set.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\bin\Debug\net7.0\05. Drum Set.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\obj\Debug\net7.0\05. Drum Set.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\obj\Debug\net7.0\05. Drum Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\obj\Debug\net7.0\05. Drum Set.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\obj\Debug\net7.0\05. Drum Set.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\obj\Debug\net7.0\05. Drum Set.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\obj\Debug\net7.0\05. Drum Set.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\obj\Debug\net7.0\refint\05. Drum Set.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\obj\Debug\net7.0\05. Drum Set.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\obj\Debug\net7.0\05. Drum Set.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\5. Lists - More Exercise\05. Drum Set\obj\Debug\net7.0\ref\05. Drum Set.dll
