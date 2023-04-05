@@ -1,6 +1,4 @@
-﻿using System.Numerics;
-
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {
@@ -8,28 +6,53 @@ class Program
         int numTwo = int.Parse(Console.ReadLine());
         int numThree = int.Parse(Console.ReadLine());
 
-        int result = MultiplyWithFor(numOne, numTwo, numThree);
-        Printer(result);
+        int[] numbers = { numOne, numTwo, numThree };
+
+        bool isPsoitive = SignChecker(numOne, numTwo, numThree, numbers);
+
+        if (numbers.All (n => n != 0))
+        {
+            Printer(isPsoitive);
+        }
     }
 
-    static int MultiplyWithFor(int numOne, int numTwo, int numThree)
+    static bool SignChecker(int numOne, int numTwo, int numThree, int[] numbers)
     {
-        int result = 0;
+        bool isPositive = false;
+        int negativeCounter = 0;
 
-        for (int i = 0; i < numOne; i++)
+        for (int i = 0; i < numbers.Length; i++)
         {
-            for (int j = 0; j < numTwo; j++)
+            if (numbers[i] < 0)
             {
-                result += numThree;
+                negativeCounter++;
+            }
+            else if (numbers[i] == 0)
+            {
+                Console.WriteLine("zero");
+                break;
+            }
+            else
+            {
+                isPositive = true;
             }
         }
 
-        return result;
+        if (negativeCounter == 2)
+        {
+            isPositive = true;
+        }
+        else if (negativeCounter % 2 == 1)
+        {
+            isPositive = false;
+        }
+
+        return isPositive;
     }
 
-    static void Printer(int result)
+    static void Printer(bool isPositive)
     {
-        if (result >= 0)
+        if (isPositive)
         {
             Console.WriteLine("positive");
         }

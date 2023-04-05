@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\3 More Exercises\\4. Methods - More Exercise\\05. Multiplication Sign\\05. Multiplication Sign.csproj": {}
+    "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\3 More Exercises\\4. Methods - More Exercise\\01. Data Types\\01. Data Types.csproj": {}
   },
   "projects": {
-    "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\3 More Exercises\\4. Methods - More Exercise\\05. Multiplication Sign\\05. Multiplication Sign.csproj": {
+    "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\3 More Exercises\\4. Methods - More Exercise\\01. Data Types\\01. Data Types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\3 More Exercises\\4. Methods - More Exercise\\05. Multiplication Sign\\05. Multiplication Sign.csproj",
+        "projectUniqueName": "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\3 More Exercises\\4. Methods - More Exercise\\01. Data Types\\01. Data Types.csproj",
         "projectName": "05. Multiplication Sign",
-        "projectPath": "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\3 More Exercises\\4. Methods - More Exercise\\05. Multiplication Sign\\05. Multiplication Sign.csproj",
+        "projectPath": "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\3 More Exercises\\4. Methods - More Exercise\\01. Data Types\\01. Data Types.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
         "outputPath": "C:\\Programing\\SoftUni\\C#\\2. C# Fundamentals\\3 More Exercises\\4. Methods - More Exercise\\05. Multiplication Sign\\obj\\",
         "projectStyle": "PackageReference",
