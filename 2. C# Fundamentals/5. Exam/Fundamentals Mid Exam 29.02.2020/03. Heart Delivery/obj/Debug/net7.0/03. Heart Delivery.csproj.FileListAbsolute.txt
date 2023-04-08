@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\bin\Debug\net7.0\03. Heart Delivery.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\bin\Debug\net7.0\03. Heart Delivery.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\bin\Debug\net7.0\03. Heart Delivery.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\bin\Debug\net7.0\03. Heart Delivery.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\bin\Debug\net7.0\03. Heart Delivery.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\obj\Debug\net7.0\03. Heart Delivery.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\obj\Debug\net7.0\03. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\obj\Debug\net7.0\03. Heart Delivery.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\obj\Debug\net7.0\03. Heart Delivery.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\obj\Debug\net7.0\03. Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\obj\Debug\net7.0\03. Heart Delivery.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\obj\Debug\net7.0\refint\03. Heart Delivery.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\obj\Debug\net7.0\03. Heart Delivery.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\obj\Debug\net7.0\03. Heart Delivery.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Mid Exam 29.02.2020\03. Heart Delivery\obj\Debug\net7.0\ref\03. Heart Delivery.dll
