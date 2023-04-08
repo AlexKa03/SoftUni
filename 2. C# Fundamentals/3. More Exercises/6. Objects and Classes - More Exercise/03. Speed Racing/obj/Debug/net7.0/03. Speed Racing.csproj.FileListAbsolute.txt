@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\net7.0\03. Speed Racing.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\net7.0\03. Speed Racing.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\net7.0\03. Speed Racing.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\net7.0\03. Speed Racing.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\net7.0\03. Speed Racing.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net7.0\03. Speed Racing.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net7.0\03. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net7.0\03. Speed Racing.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net7.0\03. Speed Racing.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net7.0\03. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net7.0\03. Speed Racing.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net7.0\refint\03. Speed Racing.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net7.0\03. Speed Racing.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net7.0\03. Speed Racing.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net7.0\ref\03. Speed Racing.dll

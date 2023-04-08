@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\bin\Debug\net7.0\04. Raw Data.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\bin\Debug\net7.0\04. Raw Data.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\bin\Debug\net7.0\04. Raw Data.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\bin\Debug\net7.0\04. Raw Data.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\bin\Debug\net7.0\04. Raw Data.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net7.0\04. Raw Data.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net7.0\04. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net7.0\04. Raw Data.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net7.0\04. Raw Data.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net7.0\04. Raw Data.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net7.0\04. Raw Data.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net7.0\refint\04. Raw Data.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net7.0\04. Raw Data.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net7.0\04. Raw Data.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net7.0\ref\04. Raw Data.dll

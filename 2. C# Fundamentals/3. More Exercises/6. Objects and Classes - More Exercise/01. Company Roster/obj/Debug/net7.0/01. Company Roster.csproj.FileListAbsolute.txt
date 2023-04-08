@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net7.0\01. Company Roster.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net7.0\01. Company Roster.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net7.0\01. Company Roster.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net7.0\01. Company Roster.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net7.0\01. Company Roster.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net7.0\01. Company Roster.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net7.0\01. Company Roster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net7.0\01. Company Roster.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net7.0\01. Company Roster.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net7.0\01. Company Roster.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net7.0\01. Company Roster.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net7.0\refint\01. Company Roster.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net7.0\01. Company Roster.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net7.0\01. Company Roster.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net7.0\ref\01. Company Roster.dll

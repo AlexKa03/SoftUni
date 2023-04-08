@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net7.0\02. Oldest Family Member.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net7.0\02. Oldest Family Member.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net7.0\02. Oldest Family Member.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net7.0\02. Oldest Family Member.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net7.0\02. Oldest Family Member.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net7.0\02. Oldest Family Member.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net7.0\02. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net7.0\02. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net7.0\02. Oldest Family Member.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net7.0\02. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net7.0\02. Oldest Family Member.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net7.0\refint\02. Oldest Family Member.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net7.0\02. Oldest Family Member.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net7.0\02. Oldest Family Member.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\3 More Exercises\6. Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net7.0\ref\02. Oldest Family Member.dll
