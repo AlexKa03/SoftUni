@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net7.0\02. Odd Occurrences.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net7.0\02. Odd Occurrences.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net7.0\02. Odd Occurrences.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net7.0\02. Odd Occurrences.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net7.0\02. Odd Occurrences.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net7.0\02. Odd Occurrences.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net7.0\02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net7.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net7.0\02. Odd Occurrences.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net7.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net7.0\02. Odd Occurrences.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net7.0\refint\02. Odd Occurrences.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net7.0\02. Odd Occurrences.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net7.0\02. Odd Occurrences.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net7.0\ref\02. Odd Occurrences.dll

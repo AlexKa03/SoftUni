@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net7.0\02. A Miner Task.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net7.0\02. A Miner Task.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net7.0\02. A Miner Task.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net7.0\02. A Miner Task.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net7.0\02. A Miner Task.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net7.0\refint\02. A Miner Task.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net7.0\ref\02. A Miner Task.dll

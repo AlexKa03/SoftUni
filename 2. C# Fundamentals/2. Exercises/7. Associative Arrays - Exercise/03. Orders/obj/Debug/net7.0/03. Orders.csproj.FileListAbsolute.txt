@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\bin\Debug\net7.0\03. Orders.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\bin\Debug\net7.0\03. Orders.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\bin\Debug\net7.0\03. Orders.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\bin\Debug\net7.0\03. Orders.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\bin\Debug\net7.0\03. Orders.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\obj\Debug\net7.0\03. Orders.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\obj\Debug\net7.0\03. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\obj\Debug\net7.0\03. Orders.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\obj\Debug\net7.0\03. Orders.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\obj\Debug\net7.0\03. Orders.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\obj\Debug\net7.0\03. Orders.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\obj\Debug\net7.0\refint\03. Orders.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\obj\Debug\net7.0\03. Orders.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\obj\Debug\net7.0\03. Orders.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\03. Orders\obj\Debug\net7.0\ref\03. Orders.dll

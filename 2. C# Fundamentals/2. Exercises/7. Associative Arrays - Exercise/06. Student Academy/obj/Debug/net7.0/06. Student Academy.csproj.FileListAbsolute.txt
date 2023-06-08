@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\bin\Debug\net7.0\06. Student Academy.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\bin\Debug\net7.0\06. Student Academy.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\bin\Debug\net7.0\06. Student Academy.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\bin\Debug\net7.0\06. Student Academy.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\bin\Debug\net7.0\06. Student Academy.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\obj\Debug\net7.0\06. Student Academy.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\obj\Debug\net7.0\06. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\obj\Debug\net7.0\06. Student Academy.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\obj\Debug\net7.0\06. Student Academy.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\obj\Debug\net7.0\06. Student Academy.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\obj\Debug\net7.0\06. Student Academy.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\obj\Debug\net7.0\refint\06. Student Academy.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\obj\Debug\net7.0\06. Student Academy.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\obj\Debug\net7.0\06. Student Academy.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\06. Student Academy\obj\Debug\net7.0\ref\06. Student Academy.dll

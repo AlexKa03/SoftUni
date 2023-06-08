@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\bin\Debug\net7.0\05. Courses.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\bin\Debug\net7.0\05. Courses.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\bin\Debug\net7.0\05. Courses.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\bin\Debug\net7.0\05. Courses.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\bin\Debug\net7.0\05. Courses.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\obj\Debug\net7.0\05. Courses.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\obj\Debug\net7.0\05. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\obj\Debug\net7.0\05. Courses.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\obj\Debug\net7.0\05. Courses.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\obj\Debug\net7.0\05. Courses.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\obj\Debug\net7.0\05. Courses.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\obj\Debug\net7.0\refint\05. Courses.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\obj\Debug\net7.0\05. Courses.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\obj\Debug\net7.0\05. Courses.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\2 Exercises\7. Associative Arrays - Exercise\05. Courses\obj\Debug\net7.0\ref\05. Courses.dll

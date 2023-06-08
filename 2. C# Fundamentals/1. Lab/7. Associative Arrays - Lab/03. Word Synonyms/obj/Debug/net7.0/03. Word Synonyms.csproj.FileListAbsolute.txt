@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net7.0\03. Word Synonyms.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net7.0\03. Word Synonyms.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net7.0\03. Word Synonyms.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net7.0\03. Word Synonyms.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net7.0\03. Word Synonyms.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net7.0\03. Word Synonyms.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net7.0\03. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net7.0\03. Word Synonyms.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net7.0\03. Word Synonyms.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net7.0\03. Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net7.0\03. Word Synonyms.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net7.0\refint\03. Word Synonyms.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net7.0\03. Word Synonyms.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net7.0\03. Word Synonyms.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net7.0\ref\03. Word Synonyms.dll

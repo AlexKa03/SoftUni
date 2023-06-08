@@ -1,0 +1,15 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\bin\Debug\net7.0\04. Word Filter.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\bin\Debug\net7.0\04. Word Filter.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\bin\Debug\net7.0\04. Word Filter.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\bin\Debug\net7.0\04. Word Filter.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\bin\Debug\net7.0\04. Word Filter.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\obj\Debug\net7.0\04. Word Filter.csproj.AssemblyReference.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\obj\Debug\net7.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\obj\Debug\net7.0\04. Word Filter.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\obj\Debug\net7.0\04. Word Filter.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\obj\Debug\net7.0\04. Word Filter.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\obj\Debug\net7.0\04. Word Filter.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\obj\Debug\net7.0\refint\04. Word Filter.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\obj\Debug\net7.0\04. Word Filter.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\obj\Debug\net7.0\04. Word Filter.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\1 Lab\7. Associative Arrays - Lab\04. Word Filter\obj\Debug\net7.0\ref\04. Word Filter.dll
