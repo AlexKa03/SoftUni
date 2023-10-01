@@ -1,0 +1,14 @@
+D:\Programing\Text Processing - Lab\03. Substring\bin\Debug\net7.0\03. Substring.exe
+D:\Programing\Text Processing - Lab\03. Substring\bin\Debug\net7.0\03. Substring.deps.json
+D:\Programing\Text Processing - Lab\03. Substring\bin\Debug\net7.0\03. Substring.runtimeconfig.json
+D:\Programing\Text Processing - Lab\03. Substring\bin\Debug\net7.0\03. Substring.dll
+D:\Programing\Text Processing - Lab\03. Substring\bin\Debug\net7.0\03. Substring.pdb
+D:\Programing\Text Processing - Lab\03. Substring\obj\Debug\net7.0\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Text Processing - Lab\03. Substring\obj\Debug\net7.0\03. Substring.AssemblyInfoInputs.cache
+D:\Programing\Text Processing - Lab\03. Substring\obj\Debug\net7.0\03. Substring.AssemblyInfo.cs
+D:\Programing\Text Processing - Lab\03. Substring\obj\Debug\net7.0\03. Substring.csproj.CoreCompileInputs.cache
+D:\Programing\Text Processing - Lab\03. Substring\obj\Debug\net7.0\03. Substring.dll
+D:\Programing\Text Processing - Lab\03. Substring\obj\Debug\net7.0\refint\03. Substring.dll
+D:\Programing\Text Processing - Lab\03. Substring\obj\Debug\net7.0\03. Substring.pdb
+D:\Programing\Text Processing - Lab\03. Substring\obj\Debug\net7.0\03. Substring.genruntimeconfig.cache
+D:\Programing\Text Processing - Lab\03. Substring\obj\Debug\net7.0\ref\03. Substring.dll

@@ -1,0 +1,14 @@
+D:\Programing\Text Processing - Lab\02. Repeat Strings\bin\Debug\net7.0\02. Repeat Strings.exe
+D:\Programing\Text Processing - Lab\02. Repeat Strings\bin\Debug\net7.0\02. Repeat Strings.deps.json
+D:\Programing\Text Processing - Lab\02. Repeat Strings\bin\Debug\net7.0\02. Repeat Strings.runtimeconfig.json
+D:\Programing\Text Processing - Lab\02. Repeat Strings\bin\Debug\net7.0\02. Repeat Strings.dll
+D:\Programing\Text Processing - Lab\02. Repeat Strings\bin\Debug\net7.0\02. Repeat Strings.pdb
+D:\Programing\Text Processing - Lab\02. Repeat Strings\obj\Debug\net7.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Text Processing - Lab\02. Repeat Strings\obj\Debug\net7.0\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\Programing\Text Processing - Lab\02. Repeat Strings\obj\Debug\net7.0\02. Repeat Strings.AssemblyInfo.cs
+D:\Programing\Text Processing - Lab\02. Repeat Strings\obj\Debug\net7.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\Programing\Text Processing - Lab\02. Repeat Strings\obj\Debug\net7.0\02. Repeat Strings.dll
+D:\Programing\Text Processing - Lab\02. Repeat Strings\obj\Debug\net7.0\refint\02. Repeat Strings.dll
+D:\Programing\Text Processing - Lab\02. Repeat Strings\obj\Debug\net7.0\02. Repeat Strings.pdb
+D:\Programing\Text Processing - Lab\02. Repeat Strings\obj\Debug\net7.0\02. Repeat Strings.genruntimeconfig.cache
+D:\Programing\Text Processing - Lab\02. Repeat Strings\obj\Debug\net7.0\ref\02. Repeat Strings.dll
