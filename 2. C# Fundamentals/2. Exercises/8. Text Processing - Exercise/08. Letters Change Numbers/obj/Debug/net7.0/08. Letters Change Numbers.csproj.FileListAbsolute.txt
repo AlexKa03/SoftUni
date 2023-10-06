@@ -1,0 +1,14 @@
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net7.0\08. Letters Change Numbers.exe
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net7.0\08. Letters Change Numbers.deps.json
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net7.0\08. Letters Change Numbers.runtimeconfig.json
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net7.0\08. Letters Change Numbers.dll
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net7.0\08. Letters Change Numbers.pdb
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net7.0\08. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net7.0\08. Letters Change Numbers.AssemblyInfoInputs.cache
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net7.0\08. Letters Change Numbers.AssemblyInfo.cs
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net7.0\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net7.0\08. Letters Change Numbers.dll
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net7.0\refint\08. Letters Change Numbers.dll
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net7.0\08. Letters Change Numbers.pdb
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net7.0\08. Letters Change Numbers.genruntimeconfig.cache
+D:\Programing\7. Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net7.0\ref\08. Letters Change Numbers.dll

@@ -1,0 +1,14 @@
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net7.0\06. Replace Repeating Chars.exe
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net7.0\06. Replace Repeating Chars.deps.json
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net7.0\06. Replace Repeating Chars.runtimeconfig.json
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net7.0\06. Replace Repeating Chars.dll
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net7.0\06. Replace Repeating Chars.pdb
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net7.0\06. Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net7.0\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net7.0\06. Replace Repeating Chars.AssemblyInfo.cs
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net7.0\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net7.0\06. Replace Repeating Chars.dll
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net7.0\refint\06. Replace Repeating Chars.dll
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net7.0\06. Replace Repeating Chars.pdb
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net7.0\06. Replace Repeating Chars.genruntimeconfig.cache
+D:\Programing\7. Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net7.0\ref\06. Replace Repeating Chars.dll

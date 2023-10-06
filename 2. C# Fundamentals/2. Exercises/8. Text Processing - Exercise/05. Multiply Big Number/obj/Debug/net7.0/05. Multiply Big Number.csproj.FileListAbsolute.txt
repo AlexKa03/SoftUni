@@ -1,0 +1,14 @@
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net7.0\05. Multiply Big Number.exe
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net7.0\05. Multiply Big Number.deps.json
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net7.0\05. Multiply Big Number.runtimeconfig.json
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net7.0\05. Multiply Big Number.dll
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net7.0\05. Multiply Big Number.pdb
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net7.0\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net7.0\05. Multiply Big Number.AssemblyInfoInputs.cache
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net7.0\05. Multiply Big Number.AssemblyInfo.cs
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net7.0\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net7.0\05. Multiply Big Number.dll
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net7.0\refint\05. Multiply Big Number.dll
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net7.0\05. Multiply Big Number.pdb
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net7.0\05. Multiply Big Number.genruntimeconfig.cache
+D:\Programing\7. Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net7.0\ref\05. Multiply Big Number.dll

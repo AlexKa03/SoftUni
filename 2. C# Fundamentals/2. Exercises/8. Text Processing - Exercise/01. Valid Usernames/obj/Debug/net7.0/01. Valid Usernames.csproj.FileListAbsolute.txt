@@ -1,0 +1,14 @@
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\bin\Debug\net7.0\01. Valid Usernames.exe
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\bin\Debug\net7.0\01. Valid Usernames.deps.json
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\bin\Debug\net7.0\01. Valid Usernames.runtimeconfig.json
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\bin\Debug\net7.0\01. Valid Usernames.dll
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\bin\Debug\net7.0\01. Valid Usernames.pdb
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\obj\Debug\net7.0\01. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\obj\Debug\net7.0\01. Valid Usernames.AssemblyInfoInputs.cache
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\obj\Debug\net7.0\01. Valid Usernames.AssemblyInfo.cs
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\obj\Debug\net7.0\01. Valid Usernames.csproj.CoreCompileInputs.cache
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\obj\Debug\net7.0\01. Valid Usernames.dll
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\obj\Debug\net7.0\refint\01. Valid Usernames.dll
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\obj\Debug\net7.0\01. Valid Usernames.pdb
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\obj\Debug\net7.0\01. Valid Usernames.genruntimeconfig.cache
+D:\Programing\7. Text Processing - Exercise\01. Valid Usernames\obj\Debug\net7.0\ref\01. Valid Usernames.dll

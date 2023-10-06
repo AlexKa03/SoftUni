@@ -1,0 +1,14 @@
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\bin\Debug\net7.0\07. String Explosion.exe
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\bin\Debug\net7.0\07. String Explosion.deps.json
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\bin\Debug\net7.0\07. String Explosion.runtimeconfig.json
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\bin\Debug\net7.0\07. String Explosion.dll
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\bin\Debug\net7.0\07. String Explosion.pdb
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.AssemblyInfoInputs.cache
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.AssemblyInfo.cs
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.csproj.CoreCompileInputs.cache
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.dll
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\refint\07. String Explosion.dll
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.pdb
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.genruntimeconfig.cache
+D:\Programing\7. Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\ref\07. String Explosion.dll

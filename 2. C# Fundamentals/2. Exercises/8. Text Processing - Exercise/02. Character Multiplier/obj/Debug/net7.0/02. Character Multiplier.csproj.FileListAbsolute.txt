@@ -1,0 +1,14 @@
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\bin\Debug\net7.0\02. Character Multiplier.exe
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\bin\Debug\net7.0\02. Character Multiplier.deps.json
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\bin\Debug\net7.0\02. Character Multiplier.runtimeconfig.json
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\bin\Debug\net7.0\02. Character Multiplier.dll
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\bin\Debug\net7.0\02. Character Multiplier.pdb
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.AssemblyInfoInputs.cache
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.AssemblyInfo.cs
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.csproj.CoreCompileInputs.cache
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.dll
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\refint\02. Character Multiplier.dll
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.pdb
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.genruntimeconfig.cache
+D:\Programing\7. Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\ref\02. Character Multiplier.dll
