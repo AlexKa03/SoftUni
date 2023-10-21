@@ -1,0 +1,14 @@
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\bin\Debug\net7.0\03. Match Dates.exe
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\bin\Debug\net7.0\03. Match Dates.deps.json
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\bin\Debug\net7.0\03. Match Dates.runtimeconfig.json
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\bin\Debug\net7.0\03. Match Dates.dll
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\bin\Debug\net7.0\03. Match Dates.pdb
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\obj\Debug\net7.0\03. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\obj\Debug\net7.0\03. Match Dates.AssemblyInfoInputs.cache
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\obj\Debug\net7.0\03. Match Dates.AssemblyInfo.cs
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\obj\Debug\net7.0\03. Match Dates.csproj.CoreCompileInputs.cache
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\obj\Debug\net7.0\03. Match Dates.dll
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\obj\Debug\net7.0\refint\03. Match Dates.dll
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\obj\Debug\net7.0\03. Match Dates.pdb
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\obj\Debug\net7.0\03. Match Dates.genruntimeconfig.cache
+D:\Programing\9. Regular Expressions - Lab\03. Match Dates\obj\Debug\net7.0\ref\03. Match Dates.dll

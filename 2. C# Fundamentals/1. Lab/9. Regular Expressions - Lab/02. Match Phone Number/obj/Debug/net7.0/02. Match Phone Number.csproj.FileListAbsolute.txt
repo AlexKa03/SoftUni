@@ -1,0 +1,14 @@
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net7.0\02. Match Phone Number.exe
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net7.0\02. Match Phone Number.deps.json
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net7.0\02. Match Phone Number.runtimeconfig.json
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net7.0\02. Match Phone Number.dll
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net7.0\02. Match Phone Number.pdb
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net7.0\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net7.0\02. Match Phone Number.AssemblyInfoInputs.cache
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net7.0\02. Match Phone Number.AssemblyInfo.cs
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net7.0\02. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net7.0\02. Match Phone Number.dll
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net7.0\refint\02. Match Phone Number.dll
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net7.0\02. Match Phone Number.pdb
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net7.0\02. Match Phone Number.genruntimeconfig.cache
+D:\Programing\9. Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net7.0\ref\02. Match Phone Number.dll
