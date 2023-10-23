@@ -1,0 +1,14 @@
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net7.0\06. Extract Emails.exe
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net7.0\06. Extract Emails.deps.json
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net7.0\06. Extract Emails.runtimeconfig.json
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net7.0\06. Extract Emails.dll
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net7.0\06. Extract Emails.pdb
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net7.0\06. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net7.0\06. Extract Emails.AssemblyInfoInputs.cache
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net7.0\06. Extract Emails.AssemblyInfo.cs
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net7.0\06. Extract Emails.csproj.CoreCompileInputs.cache
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net7.0\06. Extract Emails.dll
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net7.0\refint\06. Extract Emails.dll
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net7.0\06. Extract Emails.pdb
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net7.0\06. Extract Emails.genruntimeconfig.cache
+D:\Programing\9. Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net7.0\ref\06. Extract Emails.dll
