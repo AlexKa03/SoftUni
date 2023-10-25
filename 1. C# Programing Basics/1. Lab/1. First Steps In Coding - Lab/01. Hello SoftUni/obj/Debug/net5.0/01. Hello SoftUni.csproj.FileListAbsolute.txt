@@ -14,3 +14,18 @@ G:\Coding\Alex\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0
 G:\Coding\Alex\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.pdb
 G:\Coding\Alex\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.genruntimeconfig.cache
 G:\Coding\Alex\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\ref\01. Hello SoftUni.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.runtimeconfig.dev.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\refint\01. Hello SoftUni.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net5.0\ref\01. Hello SoftUni.dll

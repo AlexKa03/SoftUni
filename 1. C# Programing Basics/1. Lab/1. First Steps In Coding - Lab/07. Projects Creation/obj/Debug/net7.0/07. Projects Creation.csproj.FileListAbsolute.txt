@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\bin\Debug\net7.0\07. Projects Creation.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\bin\Debug\net7.0\07. Projects Creation.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\bin\Debug\net7.0\07. Projects Creation.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\bin\Debug\net7.0\07. Projects Creation.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\bin\Debug\net7.0\07. Projects Creation.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\obj\Debug\net7.0\07. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\obj\Debug\net7.0\07. Projects Creation.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\obj\Debug\net7.0\07. Projects Creation.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\obj\Debug\net7.0\07. Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\obj\Debug\net7.0\07. Projects Creation.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\obj\Debug\net7.0\refint\07. Projects Creation.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\obj\Debug\net7.0\07. Projects Creation.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\obj\Debug\net7.0\07. Projects Creation.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\07. Projects Creation\obj\Debug\net7.0\ref\07. Projects Creation.dll

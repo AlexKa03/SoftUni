@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net7.0\04. Inches to Centimeters.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net7.0\04. Inches to Centimeters.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net7.0\04. Inches to Centimeters.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net7.0\04. Inches to Centimeters.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net7.0\04. Inches to Centimeters.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net7.0\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net7.0\04. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net7.0\04. Inches to Centimeters.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net7.0\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net7.0\04. Inches to Centimeters.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net7.0\refint\04. Inches to Centimeters.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net7.0\04. Inches to Centimeters.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net7.0\04. Inches to Centimeters.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net7.0\ref\04. Inches to Centimeters.dll

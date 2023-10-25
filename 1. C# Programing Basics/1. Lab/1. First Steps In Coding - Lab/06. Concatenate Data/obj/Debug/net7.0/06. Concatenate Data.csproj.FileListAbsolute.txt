@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net7.0\06. Concatenate Data.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net7.0\06. Concatenate Data.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net7.0\06. Concatenate Data.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net7.0\06. Concatenate Data.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net7.0\06. Concatenate Data.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net7.0\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net7.0\06. Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net7.0\06. Concatenate Data.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net7.0\06. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net7.0\06. Concatenate Data.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net7.0\refint\06. Concatenate Data.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net7.0\06. Concatenate Data.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net7.0\06. Concatenate Data.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\1. C# Programing Basics\1. Lab\1. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net7.0\ref\06. Concatenate Data.dll
