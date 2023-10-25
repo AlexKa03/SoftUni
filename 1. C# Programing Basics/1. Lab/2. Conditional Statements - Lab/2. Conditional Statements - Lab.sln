@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Excellent Result", "01. Excellent Result\01. Excellent Result.csproj", "{A0D87B86-8ABD-4B8A-A06E-E62E00A31095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Greater Number", "02. Greater Number\02. Greater Number.csproj", "{4F49EA5D-8E75-43F1-9EBC-7544BD578A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Even or Odd", "03. Even or Odd\03. Even or Odd.csproj", "{0D33747A-51FB-478B-89FF-3514B89000BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Number 100-200", "04. Number 100-200\04. Number 100-200.csproj", "{04370A43-39FF-4FA9-B3C3-58D42296574F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Password Guess", "05. Password Guess\05. Password Guess.csproj", "{80405AC6-31F9-49B6-A8B2-8EAD4AD9FBE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Area of Figures", "06. Area of Figures\06. Area of Figures.csproj", "{FCF962AA-147A-47E0-8A73-CFDC86544DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Toy Shop", "07. Toy Shop\07. Toy Shop.csproj", "{0D5152F0-8251-4851-8990-7B0022A91968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0D87B86-8ABD-4B8A-A06E-E62E00A31095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D87B86-8ABD-4B8A-A06E-E62E00A31095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D87B86-8ABD-4B8A-A06E-E62E00A31095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D87B86-8ABD-4B8A-A06E-E62E00A31095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F49EA5D-8E75-43F1-9EBC-7544BD578A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F49EA5D-8E75-43F1-9EBC-7544BD578A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F49EA5D-8E75-43F1-9EBC-7544BD578A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F49EA5D-8E75-43F1-9EBC-7544BD578A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D33747A-51FB-478B-89FF-3514B89000BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D33747A-51FB-478B-89FF-3514B89000BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D33747A-51FB-478B-89FF-3514B89000BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D33747A-51FB-478B-89FF-3514B89000BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04370A43-39FF-4FA9-B3C3-58D42296574F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04370A43-39FF-4FA9-B3C3-58D42296574F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04370A43-39FF-4FA9-B3C3-58D42296574F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04370A43-39FF-4FA9-B3C3-58D42296574F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80405AC6-31F9-49B6-A8B2-8EAD4AD9FBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80405AC6-31F9-49B6-A8B2-8EAD4AD9FBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80405AC6-31F9-49B6-A8B2-8EAD4AD9FBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80405AC6-31F9-49B6-A8B2-8EAD4AD9FBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF962AA-147A-47E0-8A73-CFDC86544DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF962AA-147A-47E0-8A73-CFDC86544DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF962AA-147A-47E0-8A73-CFDC86544DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF962AA-147A-47E0-8A73-CFDC86544DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D5152F0-8251-4851-8990-7B0022A91968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5152F0-8251-4851-8990-7B0022A91968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5152F0-8251-4851-8990-7B0022A91968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5152F0-8251-4851-8990-7B0022A91968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4546B2AD-D5CE-4AA9-B01D-42707C01D892}
+	EndGlobalSection
+EndGlobal
