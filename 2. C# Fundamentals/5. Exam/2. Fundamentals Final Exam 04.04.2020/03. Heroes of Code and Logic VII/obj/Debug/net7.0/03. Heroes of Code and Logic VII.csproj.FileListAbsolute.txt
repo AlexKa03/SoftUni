@@ -1,0 +1,14 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\bin\Debug\net7.0\03. Heroes of Code and Logic VII.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\bin\Debug\net7.0\03. Heroes of Code and Logic VII.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\bin\Debug\net7.0\03. Heroes of Code and Logic VII.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\bin\Debug\net7.0\03. Heroes of Code and Logic VII.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\bin\Debug\net7.0\03. Heroes of Code and Logic VII.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\obj\Debug\net7.0\03. Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\obj\Debug\net7.0\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\obj\Debug\net7.0\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\obj\Debug\net7.0\03. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\obj\Debug\net7.0\03. Heroes of Code and Logic VII.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\obj\Debug\net7.0\refint\03. Heroes of Code and Logic VII.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\obj\Debug\net7.0\03. Heroes of Code and Logic VII.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\obj\Debug\net7.0\03. Heroes of Code and Logic VII.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\03. Heroes of Code and Logic VII\obj\Debug\net7.0\ref\03. Heroes of Code and Logic VII.dll

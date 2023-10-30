@@ -1,0 +1,14 @@
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\bin\Debug\net7.0\02. Fancy Barcodes.exe
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\bin\Debug\net7.0\02. Fancy Barcodes.deps.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\bin\Debug\net7.0\02. Fancy Barcodes.runtimeconfig.json
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\bin\Debug\net7.0\02. Fancy Barcodes.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\bin\Debug\net7.0\02. Fancy Barcodes.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\obj\Debug\net7.0\02. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\obj\Debug\net7.0\02. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\obj\Debug\net7.0\02. Fancy Barcodes.AssemblyInfo.cs
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\obj\Debug\net7.0\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\obj\Debug\net7.0\02. Fancy Barcodes.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\obj\Debug\net7.0\refint\02. Fancy Barcodes.dll
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\obj\Debug\net7.0\02. Fancy Barcodes.pdb
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\obj\Debug\net7.0\02. Fancy Barcodes.genruntimeconfig.cache
+C:\Programing\SoftUni\C#\2. C# Fundamentals\5. Exam\Fundamentals Final Exam 04.04.2020\02. Fancy Barcodes\obj\Debug\net7.0\ref\02. Fancy Barcodes.dll
