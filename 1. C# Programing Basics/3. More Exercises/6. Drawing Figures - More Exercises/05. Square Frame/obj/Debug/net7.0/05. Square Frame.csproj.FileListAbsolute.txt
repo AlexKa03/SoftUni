@@ -1,0 +1,14 @@
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\bin\Debug\net7.0\05. Square Frame.exe
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\bin\Debug\net7.0\05. Square Frame.deps.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\bin\Debug\net7.0\05. Square Frame.runtimeconfig.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\bin\Debug\net7.0\05. Square Frame.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\bin\Debug\net7.0\05. Square Frame.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\obj\Debug\net7.0\05. Square Frame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\obj\Debug\net7.0\05. Square Frame.AssemblyInfoInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\obj\Debug\net7.0\05. Square Frame.AssemblyInfo.cs
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\obj\Debug\net7.0\05. Square Frame.csproj.CoreCompileInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\obj\Debug\net7.0\05. Square Frame.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\obj\Debug\net7.0\refint\05. Square Frame.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\obj\Debug\net7.0\05. Square Frame.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\obj\Debug\net7.0\05. Square Frame.genruntimeconfig.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\05. Square Frame\obj\Debug\net7.0\ref\05. Square Frame.dll

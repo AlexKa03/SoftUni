@@ -1,0 +1,14 @@
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\bin\Debug\net7.0\04. Triangle of Dollars.exe
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\bin\Debug\net7.0\04. Triangle of Dollars.deps.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\bin\Debug\net7.0\04. Triangle of Dollars.runtimeconfig.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\bin\Debug\net7.0\04. Triangle of Dollars.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\bin\Debug\net7.0\04. Triangle of Dollars.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\obj\Debug\net7.0\04. Triangle of Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\obj\Debug\net7.0\04. Triangle of Dollars.AssemblyInfoInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\obj\Debug\net7.0\04. Triangle of Dollars.AssemblyInfo.cs
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\obj\Debug\net7.0\04. Triangle of Dollars.csproj.CoreCompileInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\obj\Debug\net7.0\04. Triangle of Dollars.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\obj\Debug\net7.0\refint\04. Triangle of Dollars.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\obj\Debug\net7.0\04. Triangle of Dollars.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\obj\Debug\net7.0\04. Triangle of Dollars.genruntimeconfig.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\04. Triangle of Dollars\obj\Debug\net7.0\ref\04. Triangle of Dollars.dll
