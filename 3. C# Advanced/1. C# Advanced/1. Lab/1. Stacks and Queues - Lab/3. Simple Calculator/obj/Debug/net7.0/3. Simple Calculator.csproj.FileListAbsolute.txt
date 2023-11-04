@@ -1,0 +1,14 @@
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net7.0\3. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net7.0\3. Simple Calculator.AssemblyInfoInputs.cache
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net7.0\3. Simple Calculator.AssemblyInfo.cs
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net7.0\3. Simple Calculator.csproj.CoreCompileInputs.cache
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net7.0\3. Simple Calculator.exe
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net7.0\3. Simple Calculator.deps.json
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net7.0\3. Simple Calculator.runtimeconfig.json
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net7.0\3. Simple Calculator.dll
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net7.0\3. Simple Calculator.pdb
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net7.0\3. Simple Calculator.dll
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net7.0\refint\3. Simple Calculator.dll
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net7.0\3. Simple Calculator.pdb
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net7.0\3. Simple Calculator.genruntimeconfig.cache
+D:\Programing\1. Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net7.0\ref\3. Simple Calculator.dll

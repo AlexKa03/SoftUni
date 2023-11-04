@@ -1,0 +1,14 @@
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\bin\Debug\net7.0\2. Stack Sum.exe
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\bin\Debug\net7.0\2. Stack Sum.deps.json
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\bin\Debug\net7.0\2. Stack Sum.runtimeconfig.json
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\bin\Debug\net7.0\2. Stack Sum.dll
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\bin\Debug\net7.0\2. Stack Sum.pdb
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net7.0\2. Stack Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net7.0\2. Stack Sum.AssemblyInfoInputs.cache
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net7.0\2. Stack Sum.AssemblyInfo.cs
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net7.0\2. Stack Sum.csproj.CoreCompileInputs.cache
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net7.0\2. Stack Sum.dll
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net7.0\refint\2. Stack Sum.dll
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net7.0\2. Stack Sum.pdb
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net7.0\2. Stack Sum.genruntimeconfig.cache
+D:\Programing\1. Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net7.0\ref\2. Stack Sum.dll

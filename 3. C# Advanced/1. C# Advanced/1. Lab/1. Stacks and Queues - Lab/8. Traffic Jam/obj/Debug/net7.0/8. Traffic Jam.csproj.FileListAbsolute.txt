@@ -1,0 +1,14 @@
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net7.0\8. Traffic Jam.exe
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net7.0\8. Traffic Jam.deps.json
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net7.0\8. Traffic Jam.runtimeconfig.json
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net7.0\8. Traffic Jam.dll
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net7.0\8. Traffic Jam.pdb
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net7.0\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net7.0\8. Traffic Jam.AssemblyInfoInputs.cache
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net7.0\8. Traffic Jam.AssemblyInfo.cs
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net7.0\8. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net7.0\8. Traffic Jam.dll
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net7.0\refint\8. Traffic Jam.dll
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net7.0\8. Traffic Jam.pdb
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net7.0\8. Traffic Jam.genruntimeconfig.cache
+D:\Programing\1. Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net7.0\ref\8. Traffic Jam.dll

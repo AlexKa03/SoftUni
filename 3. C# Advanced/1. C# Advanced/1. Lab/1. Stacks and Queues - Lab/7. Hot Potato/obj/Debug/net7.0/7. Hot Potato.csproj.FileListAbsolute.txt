@@ -1,0 +1,14 @@
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net7.0\7. Hot Potato.exe
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net7.0\7. Hot Potato.deps.json
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net7.0\7. Hot Potato.runtimeconfig.json
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net7.0\7. Hot Potato.dll
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net7.0\7. Hot Potato.pdb
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net7.0\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net7.0\7. Hot Potato.AssemblyInfoInputs.cache
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net7.0\7. Hot Potato.AssemblyInfo.cs
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net7.0\7. Hot Potato.csproj.CoreCompileInputs.cache
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net7.0\7. Hot Potato.dll
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net7.0\refint\7. Hot Potato.dll
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net7.0\7. Hot Potato.pdb
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net7.0\7. Hot Potato.genruntimeconfig.cache
+D:\Programing\1. Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net7.0\ref\7. Hot Potato.dll

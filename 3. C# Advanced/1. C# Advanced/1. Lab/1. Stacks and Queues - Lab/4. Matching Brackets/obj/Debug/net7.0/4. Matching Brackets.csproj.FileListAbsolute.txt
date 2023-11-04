@@ -1,0 +1,14 @@
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\net7.0\4. Matching Brackets.exe
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\net7.0\4. Matching Brackets.deps.json
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\net7.0\4. Matching Brackets.runtimeconfig.json
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\net7.0\4. Matching Brackets.dll
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\net7.0\4. Matching Brackets.pdb
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net7.0\4. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net7.0\4. Matching Brackets.AssemblyInfoInputs.cache
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net7.0\4. Matching Brackets.AssemblyInfo.cs
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net7.0\4. Matching Brackets.csproj.CoreCompileInputs.cache
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net7.0\4. Matching Brackets.dll
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net7.0\refint\4. Matching Brackets.dll
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net7.0\4. Matching Brackets.pdb
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net7.0\4. Matching Brackets.genruntimeconfig.cache
+D:\Programing\1. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net7.0\ref\4. Matching Brackets.dll
