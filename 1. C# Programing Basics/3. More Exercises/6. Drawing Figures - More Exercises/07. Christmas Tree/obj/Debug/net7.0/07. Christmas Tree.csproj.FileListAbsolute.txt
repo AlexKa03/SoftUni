@@ -1,0 +1,14 @@
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\bin\Debug\net7.0\07. Christmas Tree.exe
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\bin\Debug\net7.0\07. Christmas Tree.deps.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\bin\Debug\net7.0\07. Christmas Tree.runtimeconfig.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\bin\Debug\net7.0\07. Christmas Tree.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\bin\Debug\net7.0\07. Christmas Tree.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\obj\Debug\net7.0\07. Christmas Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\obj\Debug\net7.0\07. Christmas Tree.AssemblyInfoInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\obj\Debug\net7.0\07. Christmas Tree.AssemblyInfo.cs
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\obj\Debug\net7.0\07. Christmas Tree.csproj.CoreCompileInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\obj\Debug\net7.0\07. Christmas Tree.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\obj\Debug\net7.0\refint\07. Christmas Tree.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\obj\Debug\net7.0\07. Christmas Tree.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\obj\Debug\net7.0\07. Christmas Tree.genruntimeconfig.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\07. Christmas Tree\obj\Debug\net7.0\ref\07. Christmas Tree.dll

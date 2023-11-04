@@ -1,0 +1,14 @@
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\bin\Debug\net7.0\02. Rectangle of NxN Stars.exe
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\bin\Debug\net7.0\02. Rectangle of NxN Stars.deps.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\bin\Debug\net7.0\02. Rectangle of NxN Stars.runtimeconfig.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\bin\Debug\net7.0\02. Rectangle of NxN Stars.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\bin\Debug\net7.0\02. Rectangle of NxN Stars.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\obj\Debug\net7.0\02. Rectangle of NxN Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\obj\Debug\net7.0\02. Rectangle of NxN Stars.AssemblyInfoInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\obj\Debug\net7.0\02. Rectangle of NxN Stars.AssemblyInfo.cs
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\obj\Debug\net7.0\02. Rectangle of NxN Stars.csproj.CoreCompileInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\obj\Debug\net7.0\02. Rectangle of NxN Stars.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\obj\Debug\net7.0\refint\02. Rectangle of NxN Stars.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\obj\Debug\net7.0\02. Rectangle of NxN Stars.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\obj\Debug\net7.0\02. Rectangle of NxN Stars.genruntimeconfig.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\02. Rectangle of NxN Stars\obj\Debug\net7.0\ref\02. Rectangle of NxN Stars.dll

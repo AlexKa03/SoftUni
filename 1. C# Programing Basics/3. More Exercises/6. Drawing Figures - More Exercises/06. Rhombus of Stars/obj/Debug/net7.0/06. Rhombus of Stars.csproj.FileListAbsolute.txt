@@ -1,0 +1,14 @@
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\bin\Debug\net7.0\06. Rhombus of Stars.exe
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\bin\Debug\net7.0\06. Rhombus of Stars.deps.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\bin\Debug\net7.0\06. Rhombus of Stars.runtimeconfig.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\bin\Debug\net7.0\06. Rhombus of Stars.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\bin\Debug\net7.0\06. Rhombus of Stars.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\obj\Debug\net7.0\06. Rhombus of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\obj\Debug\net7.0\06. Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\obj\Debug\net7.0\06. Rhombus of Stars.AssemblyInfo.cs
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\obj\Debug\net7.0\06. Rhombus of Stars.csproj.CoreCompileInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\obj\Debug\net7.0\06. Rhombus of Stars.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\obj\Debug\net7.0\refint\06. Rhombus of Stars.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\obj\Debug\net7.0\06. Rhombus of Stars.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\obj\Debug\net7.0\06. Rhombus of Stars.genruntimeconfig.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\6. Drawing Figures - More Exercises\06. Rhombus of Stars\obj\Debug\net7.0\ref\06. Rhombus of Stars.dll
