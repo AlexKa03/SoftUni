@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net7.0\7. Pascal Triangle.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net7.0\7. Pascal Triangle.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net7.0\7. Pascal Triangle.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net7.0\7. Pascal Triangle.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net7.0\7. Pascal Triangle.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net7.0\refint\7. Pascal Triangle.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net7.0\ref\7. Pascal Triangle.dll

@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\bin\Debug\net7.0\5.SquareWithMaximumSum.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\bin\Debug\net7.0\5.SquareWithMaximumSum.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\bin\Debug\net7.0\5.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\bin\Debug\net7.0\5.SquareWithMaximumSum.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\bin\Debug\net7.0\5.SquareWithMaximumSum.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\obj\Debug\net7.0\5.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\obj\Debug\net7.0\5.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\obj\Debug\net7.0\5.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\obj\Debug\net7.0\5.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\obj\Debug\net7.0\5.SquareWithMaximumSum.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\obj\Debug\net7.0\refint\5.SquareWithMaximumSum.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\obj\Debug\net7.0\5.SquareWithMaximumSum.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\obj\Debug\net7.0\5.SquareWithMaximumSum.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\5.SquareWithMaximumSum\obj\Debug\net7.0\ref\5.SquareWithMaximumSum.dll

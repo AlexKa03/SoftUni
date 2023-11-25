@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\bin\Debug\net7.0\09.SimpleTextEdito.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\bin\Debug\net7.0\09.SimpleTextEdito.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\bin\Debug\net7.0\09.SimpleTextEdito.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\bin\Debug\net7.0\09.SimpleTextEdito.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\bin\Debug\net7.0\09.SimpleTextEdito.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\obj\Debug\net7.0\09.SimpleTextEdito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\obj\Debug\net7.0\09.SimpleTextEdito.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\obj\Debug\net7.0\09.SimpleTextEdito.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\obj\Debug\net7.0\09.SimpleTextEdito.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\obj\Debug\net7.0\09.SimpleTextEdito.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\obj\Debug\net7.0\refint\09.SimpleTextEdito.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\obj\Debug\net7.0\09.SimpleTextEdito.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\obj\Debug\net7.0\09.SimpleTextEdito.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\09.SimpleTextEdito\obj\Debug\net7.0\ref\09.SimpleTextEdito.dll

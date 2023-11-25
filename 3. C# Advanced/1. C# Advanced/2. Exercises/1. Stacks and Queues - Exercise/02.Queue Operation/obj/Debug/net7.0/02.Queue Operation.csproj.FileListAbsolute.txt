@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\bin\Debug\net7.0\02.Queue Operation.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\bin\Debug\net7.0\02.Queue Operation.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\bin\Debug\net7.0\02.Queue Operation.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\bin\Debug\net7.0\02.Queue Operation.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\bin\Debug\net7.0\02.Queue Operation.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\obj\Debug\net7.0\02.Queue Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\obj\Debug\net7.0\02.Queue Operation.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\obj\Debug\net7.0\02.Queue Operation.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\obj\Debug\net7.0\02.Queue Operation.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\obj\Debug\net7.0\02.Queue Operation.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\obj\Debug\net7.0\refint\02.Queue Operation.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\obj\Debug\net7.0\02.Queue Operation.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\obj\Debug\net7.0\02.Queue Operation.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\02.Queue Operation\obj\Debug\net7.0\ref\02.Queue Operation.dll

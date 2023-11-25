@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net7.0\3. Primary Diagonal.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net7.0\3. Primary Diagonal.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net7.0\3. Primary Diagonal.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net7.0\3. Primary Diagonal.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net7.0\3. Primary Diagonal.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net7.0\refint\3. Primary Diagonal.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net7.0\ref\3. Primary Diagonal.dll

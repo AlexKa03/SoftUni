@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\bin\Debug\net7.0\08.BalancedParenth.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\bin\Debug\net7.0\08.BalancedParenth.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\bin\Debug\net7.0\08.BalancedParenth.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\bin\Debug\net7.0\08.BalancedParenth.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\bin\Debug\net7.0\08.BalancedParenth.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\obj\Debug\net7.0\08.BalancedParenth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\obj\Debug\net7.0\08.BalancedParenth.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\obj\Debug\net7.0\08.BalancedParenth.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\obj\Debug\net7.0\08.BalancedParenth.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\obj\Debug\net7.0\08.BalancedParenth.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\obj\Debug\net7.0\refint\08.BalancedParenth.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\obj\Debug\net7.0\08.BalancedParenth.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\obj\Debug\net7.0\08.BalancedParenth.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\08.BalancedParenth\obj\Debug\net7.0\ref\08.BalancedParenth.dll

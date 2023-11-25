@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net7.0\06. Songs Queue.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net7.0\06. Songs Queue.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net7.0\06. Songs Queue.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net7.0\06. Songs Queue.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net7.0\06. Songs Queue.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net7.0\06. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net7.0\06. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net7.0\06. Songs Queue.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net7.0\06. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net7.0\06. Songs Queue.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net7.0\refint\06. Songs Queue.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net7.0\06. Songs Queue.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net7.0\06. Songs Queue.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\1. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net7.0\ref\06. Songs Queue.dll

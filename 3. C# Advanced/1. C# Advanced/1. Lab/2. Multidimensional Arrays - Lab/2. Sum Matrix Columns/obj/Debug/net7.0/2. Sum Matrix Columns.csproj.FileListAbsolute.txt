@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net7.0\refint\2. Sum Matrix Columns.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net7.0\ref\2. Sum Matrix Columns.dll

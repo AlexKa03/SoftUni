@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\bin\Debug\net7.0\6. Jagged-Array Mod.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\bin\Debug\net7.0\6. Jagged-Array Mod.deps.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\bin\Debug\net7.0\6. Jagged-Array Mod.runtimeconfig.json
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\bin\Debug\net7.0\6. Jagged-Array Mod.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\bin\Debug\net7.0\6. Jagged-Array Mod.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\obj\Debug\net7.0\6. Jagged-Array Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\obj\Debug\net7.0\6. Jagged-Array Mod.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\obj\Debug\net7.0\6. Jagged-Array Mod.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\obj\Debug\net7.0\6. Jagged-Array Mod.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\obj\Debug\net7.0\6. Jagged-Array Mod.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\obj\Debug\net7.0\refint\6. Jagged-Array Mod.dll
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\obj\Debug\net7.0\6. Jagged-Array Mod.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\obj\Debug\net7.0\6. Jagged-Array Mod.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\1. Lab\2. Multidimensional Arrays - Lab\6. Jagged-Array Mod\obj\Debug\net7.0\ref\6. Jagged-Array Mod.dll
