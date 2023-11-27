@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net7.0\02. Average Student Grades.exe
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net7.0\02. Average Student Grades.deps.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net7.0\02. Average Student Grades.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net7.0\02. Average Student Grades.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net7.0\02. Average Student Grades.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net7.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net7.0\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net7.0\02. Average Student Grades.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net7.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net7.0\02. Average Student Grades.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net7.0\refint\02. Average Student Grades.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net7.0\02. Average Student Grades.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net7.0\02. Average Student Grades.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net7.0\ref\02. Average Student Grades.dll

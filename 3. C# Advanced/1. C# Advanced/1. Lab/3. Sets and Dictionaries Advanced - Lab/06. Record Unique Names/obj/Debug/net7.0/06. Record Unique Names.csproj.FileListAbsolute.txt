@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net7.0\06. Record Unique Names.exe
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net7.0\06. Record Unique Names.deps.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net7.0\06. Record Unique Names.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net7.0\06. Record Unique Names.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net7.0\06. Record Unique Names.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net7.0\06. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net7.0\06. Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net7.0\06. Record Unique Names.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net7.0\06. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net7.0\06. Record Unique Names.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net7.0\refint\06. Record Unique Names.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net7.0\06. Record Unique Names.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net7.0\06. Record Unique Names.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net7.0\ref\06. Record Unique Names.dll

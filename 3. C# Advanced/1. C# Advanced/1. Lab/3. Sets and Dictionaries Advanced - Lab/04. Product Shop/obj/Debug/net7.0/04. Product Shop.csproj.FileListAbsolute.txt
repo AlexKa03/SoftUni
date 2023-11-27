@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net7.0\04. Product Shop.exe
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net7.0\04. Product Shop.deps.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net7.0\04. Product Shop.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net7.0\04. Product Shop.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net7.0\04. Product Shop.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net7.0\04. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net7.0\04. Product Shop.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net7.0\04. Product Shop.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net7.0\04. Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net7.0\04. Product Shop.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net7.0\refint\04. Product Shop.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net7.0\04. Product Shop.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net7.0\04. Product Shop.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net7.0\ref\04. Product Shop.dll
