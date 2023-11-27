@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net7.0\6. Jagged Array Manipulator.exe
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net7.0\6. Jagged Array Manipulator.deps.json
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net7.0\6. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net7.0\6. Jagged Array Manipulator.dll
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net7.0\6. Jagged Array Manipulator.pdb
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net7.0\6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net7.0\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net7.0\6. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net7.0\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net7.0\6. Jagged Array Manipulator.dll
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net7.0\refint\6. Jagged Array Manipulator.dll
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net7.0\6. Jagged Array Manipulator.pdb
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net7.0\6. Jagged Array Manipulator.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net7.0\ref\6. Jagged Array Manipulator.dll

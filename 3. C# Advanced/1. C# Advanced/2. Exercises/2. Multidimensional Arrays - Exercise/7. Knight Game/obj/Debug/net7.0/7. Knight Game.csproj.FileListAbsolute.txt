@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net7.0\7. Knight Game.exe
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net7.0\7. Knight Game.deps.json
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net7.0\7. Knight Game.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net7.0\7. Knight Game.dll
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net7.0\7. Knight Game.pdb
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net7.0\7. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net7.0\7. Knight Game.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net7.0\7. Knight Game.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net7.0\7. Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net7.0\7. Knight Game.dll
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net7.0\refint\7. Knight Game.dll
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net7.0\7. Knight Game.pdb
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net7.0\7. Knight Game.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net7.0\ref\7. Knight Game.dll

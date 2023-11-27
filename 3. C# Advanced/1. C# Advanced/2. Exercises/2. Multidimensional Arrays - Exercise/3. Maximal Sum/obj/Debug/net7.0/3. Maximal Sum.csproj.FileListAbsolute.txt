@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net7.0\3. Maximal Sum.exe
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net7.0\3. Maximal Sum.deps.json
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net7.0\3. Maximal Sum.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net7.0\3. Maximal Sum.dll
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net7.0\3. Maximal Sum.pdb
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.dll
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net7.0\refint\3. Maximal Sum.dll
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.pdb
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net7.0\ref\3. Maximal Sum.dll
