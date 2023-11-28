@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net7.0\04. Even Times.exe
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net7.0\04. Even Times.deps.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net7.0\04. Even Times.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net7.0\04. Even Times.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net7.0\04. Even Times.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net7.0\04. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net7.0\04. Even Times.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net7.0\04. Even Times.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net7.0\04. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net7.0\04. Even Times.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net7.0\refint\04. Even Times.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net7.0\04. Even Times.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net7.0\04. Even Times.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net7.0\ref\04. Even Times.dll

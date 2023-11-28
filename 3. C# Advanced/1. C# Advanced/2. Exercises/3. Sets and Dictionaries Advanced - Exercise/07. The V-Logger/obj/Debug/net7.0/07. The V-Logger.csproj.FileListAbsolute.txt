@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net7.0\07. The V-Logger.exe
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net7.0\07. The V-Logger.deps.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net7.0\07. The V-Logger.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net7.0\07. The V-Logger.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net7.0\07. The V-Logger.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net7.0\07. The V-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net7.0\07. The V-Logger.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net7.0\07. The V-Logger.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net7.0\07. The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net7.0\07. The V-Logger.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net7.0\refint\07. The V-Logger.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net7.0\07. The V-Logger.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net7.0\07. The V-Logger.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net7.0\ref\07. The V-Logger.dll

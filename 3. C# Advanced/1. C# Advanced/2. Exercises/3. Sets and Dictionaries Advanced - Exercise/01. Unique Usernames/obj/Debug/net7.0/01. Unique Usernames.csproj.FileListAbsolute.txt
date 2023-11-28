@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net7.0\01. Unique Usernames.exe
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net7.0\01. Unique Usernames.deps.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net7.0\01. Unique Usernames.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net7.0\01. Unique Usernames.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net7.0\01. Unique Usernames.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net7.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net7.0\01. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net7.0\01. Unique Usernames.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net7.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net7.0\01. Unique Usernames.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net7.0\refint\01. Unique Usernames.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net7.0\01. Unique Usernames.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net7.0\01. Unique Usernames.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net7.0\ref\01. Unique Usernames.dll

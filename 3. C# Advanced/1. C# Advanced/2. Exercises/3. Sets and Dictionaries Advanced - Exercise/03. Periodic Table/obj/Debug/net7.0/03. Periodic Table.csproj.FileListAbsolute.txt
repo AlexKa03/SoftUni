@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net7.0\03. Periodic Table.exe
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net7.0\03. Periodic Table.deps.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net7.0\03. Periodic Table.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net7.0\03. Periodic Table.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net7.0\03. Periodic Table.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net7.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net7.0\03. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net7.0\03. Periodic Table.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net7.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net7.0\03. Periodic Table.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net7.0\refint\03. Periodic Table.dll
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net7.0\03. Periodic Table.pdb
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net7.0\03. Periodic Table.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net7.0\ref\03. Periodic Table.dll
