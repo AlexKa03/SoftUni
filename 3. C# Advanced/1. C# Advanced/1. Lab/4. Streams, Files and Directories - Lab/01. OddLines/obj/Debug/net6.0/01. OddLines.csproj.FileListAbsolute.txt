@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\bin\Debug\net6.0\01. OddLines.exe
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\bin\Debug\net6.0\01. OddLines.deps.json
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\bin\Debug\net6.0\01. OddLines.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\bin\Debug\net6.0\01. OddLines.dll
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\bin\Debug\net6.0\01. OddLines.pdb
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. OddLines.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. OddLines.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. OddLines.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. OddLines.dll
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\obj\Debug\net6.0\refint\01. OddLines.dll
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. OddLines.pdb
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. OddLines.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\Skeleton-Lab\OddLines\obj\Debug\net6.0\ref\01. OddLines.dll

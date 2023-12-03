@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.exe
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.deps.json
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.pdb
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\refint\03. Word Count.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.pdb
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\ref\03. Word Count.dll

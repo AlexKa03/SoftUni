@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\net6.0\06. Split, Merge Binary Files.exe
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\net6.0\06. Split, Merge Binary Files.deps.json
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\net6.0\06. Split, Merge Binary Files.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\net6.0\06. Split, Merge Binary Files.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\net6.0\06. Split, Merge Binary Files.pdb
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\refint\06. Split, Merge Binary Files.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.pdb
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\ref\06. Split, Merge Binary Files.dll
