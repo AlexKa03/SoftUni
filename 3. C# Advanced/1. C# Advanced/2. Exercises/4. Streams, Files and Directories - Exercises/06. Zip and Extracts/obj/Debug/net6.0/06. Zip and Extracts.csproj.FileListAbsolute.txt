@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.exe
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.deps.json
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.pdb
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\refint\06. Zip and Extracts.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.pdb
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\ref\06. Zip and Extracts.dll

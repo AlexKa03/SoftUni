@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.exe
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.deps.json
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.pdb
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\refint\05. Copy Directory.dll
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.pdb
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\4. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\ref\05. Copy Directory.dll

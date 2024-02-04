@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\bin\Debug\net8.0\02. The Gambler.exe
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\bin\Debug\net8.0\02. The Gambler.deps.json
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\bin\Debug\net8.0\02. The Gambler.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\bin\Debug\net8.0\02. The Gambler.dll
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\bin\Debug\net8.0\02. The Gambler.pdb
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\obj\Debug\net8.0\02. The Gambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\obj\Debug\net8.0\02. The Gambler.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\obj\Debug\net8.0\02. The Gambler.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\obj\Debug\net8.0\02. The Gambler.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\obj\Debug\net8.0\02. The Gambler.dll
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\obj\Debug\net8.0\refint\02. The Gambler.dll
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\obj\Debug\net8.0\02. The Gambler.pdb
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\obj\Debug\net8.0\02. The Gambler.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\02. The Gambler\obj\Debug\net8.0\ref\02. The Gambler.dll

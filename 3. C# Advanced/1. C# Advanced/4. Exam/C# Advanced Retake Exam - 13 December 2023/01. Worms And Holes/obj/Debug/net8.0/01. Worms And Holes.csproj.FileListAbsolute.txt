@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\bin\Debug\net8.0\01. Worms And Holes.exe
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\bin\Debug\net8.0\01. Worms And Holes.deps.json
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\bin\Debug\net8.0\01. Worms And Holes.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\bin\Debug\net8.0\01. Worms And Holes.dll
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\bin\Debug\net8.0\01. Worms And Holes.pdb
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\obj\Debug\net8.0\01. Worms And Holes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\obj\Debug\net8.0\01. Worms And Holes.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\obj\Debug\net8.0\01. Worms And Holes.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\obj\Debug\net8.0\01. Worms And Holes.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\obj\Debug\net8.0\01. Worms And Holes.dll
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\obj\Debug\net8.0\refint\01. Worms And Holes.dll
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\obj\Debug\net8.0\01. Worms And Holes.pdb
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\obj\Debug\net8.0\01. Worms And Holes.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\01. Worms And Holes\obj\Debug\net8.0\ref\01. Worms And Holes.dll

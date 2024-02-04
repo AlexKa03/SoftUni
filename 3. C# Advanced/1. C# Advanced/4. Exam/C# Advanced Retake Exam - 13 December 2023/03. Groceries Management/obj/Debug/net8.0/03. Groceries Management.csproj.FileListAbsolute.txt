@@ -1,0 +1,14 @@
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\bin\Debug\net8.0\03. Groceries Management.exe
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\bin\Debug\net8.0\03. Groceries Management.deps.json
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\bin\Debug\net8.0\03. Groceries Management.runtimeconfig.json
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\bin\Debug\net8.0\03. Groceries Management.dll
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\bin\Debug\net8.0\03. Groceries Management.pdb
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\obj\Debug\net8.0\03. Groceries Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\obj\Debug\net8.0\03. Groceries Management.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\obj\Debug\net8.0\03. Groceries Management.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\obj\Debug\net8.0\03. Groceries Management.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\obj\Debug\net8.0\03. Groceries Management.dll
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\obj\Debug\net8.0\refint\03. Groceries Management.dll
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\obj\Debug\net8.0\03. Groceries Management.pdb
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\obj\Debug\net8.0\03. Groceries Management.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Работен плот\C# Advanced Retake Exam - 13 December 2023\03. Groceries Management\obj\Debug\net8.0\ref\03. Groceries Management.dll
