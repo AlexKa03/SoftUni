@@ -1,0 +1,14 @@
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\bin\Debug\net7.0\01. Unique PIN Codes.exe
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\bin\Debug\net7.0\01. Unique PIN Codes.deps.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\bin\Debug\net7.0\01. Unique PIN Codes.runtimeconfig.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\bin\Debug\net7.0\01. Unique PIN Codes.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\bin\Debug\net7.0\01. Unique PIN Codes.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\obj\Debug\net7.0\01. Unique PIN Codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\obj\Debug\net7.0\01. Unique PIN Codes.AssemblyInfoInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\obj\Debug\net7.0\01. Unique PIN Codes.AssemblyInfo.cs
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\obj\Debug\net7.0\01. Unique PIN Codes.csproj.CoreCompileInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\obj\Debug\net7.0\01. Unique PIN Codes.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\obj\Debug\net7.0\refint\01. Unique PIN Codes.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\obj\Debug\net7.0\01. Unique PIN Codes.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\obj\Debug\net7.0\01. Unique PIN Codes.genruntimeconfig.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\01. Unique PIN Codes\obj\Debug\net7.0\ref\01. Unique PIN Codes.dll

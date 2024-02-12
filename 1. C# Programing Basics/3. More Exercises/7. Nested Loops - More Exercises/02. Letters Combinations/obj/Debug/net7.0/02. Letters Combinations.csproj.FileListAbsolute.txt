@@ -1,0 +1,14 @@
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\bin\Debug\net7.0\02. Letters Combinations.exe
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\bin\Debug\net7.0\02. Letters Combinations.deps.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\bin\Debug\net7.0\02. Letters Combinations.runtimeconfig.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\bin\Debug\net7.0\02. Letters Combinations.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\bin\Debug\net7.0\02. Letters Combinations.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\obj\Debug\net7.0\02. Letters Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\obj\Debug\net7.0\02. Letters Combinations.AssemblyInfoInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\obj\Debug\net7.0\02. Letters Combinations.AssemblyInfo.cs
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\obj\Debug\net7.0\02. Letters Combinations.csproj.CoreCompileInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\obj\Debug\net7.0\02. Letters Combinations.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\obj\Debug\net7.0\refint\02. Letters Combinations.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\obj\Debug\net7.0\02. Letters Combinations.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\obj\Debug\net7.0\02. Letters Combinations.genruntimeconfig.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\02. Letters Combinations\obj\Debug\net7.0\ref\02. Letters Combinations.dll

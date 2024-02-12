@@ -1,0 +1,14 @@
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net7.0\03. Lucky Numbers.exe
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net7.0\03. Lucky Numbers.deps.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net7.0\03. Lucky Numbers.runtimeconfig.json
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net7.0\03. Lucky Numbers.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net7.0\03. Lucky Numbers.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net7.0\03. Lucky Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net7.0\03. Lucky Numbers.AssemblyInfoInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net7.0\03. Lucky Numbers.AssemblyInfo.cs
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net7.0\03. Lucky Numbers.csproj.CoreCompileInputs.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net7.0\03. Lucky Numbers.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net7.0\refint\03. Lucky Numbers.dll
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net7.0\03. Lucky Numbers.pdb
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net7.0\03. Lucky Numbers.genruntimeconfig.cache
+C:\Programing\GitHub repo\SoftUni_CSharp\1. C# Programing Basics\3. More Exercises\7. Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net7.0\ref\03. Lucky Numbers.dll
