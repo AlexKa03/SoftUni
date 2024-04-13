@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex_\\OneDrive\\Работен плот\\2. Multidimensional Arrays - Exercise\\4. Matrix Shuffling\\4. Matrix Shuffling.csproj",
+      "projectUniqueName": "C:\\Users\\alex_\\OneDrive\\Документи\\GitHub\\SoftUni_CSharp\\3. C# Advanced\\1. C# Advanced\\2. Exercises\\2. Multidimensional Arrays - Exercise\\4. Matrix Shuffling\\4. Matrix Shuffling.csproj",
       "projectName": "4. Matrix Shuffling",
-      "projectPath": "C:\\Users\\alex_\\OneDrive\\Работен плот\\2. Multidimensional Arrays - Exercise\\4. Matrix Shuffling\\4. Matrix Shuffling.csproj",
+      "projectPath": "C:\\Users\\alex_\\OneDrive\\Документи\\GitHub\\SoftUni_CSharp\\3. C# Advanced\\1. C# Advanced\\2. Exercises\\2. Multidimensional Arrays - Exercise\\4. Matrix Shuffling\\4. Matrix Shuffling.csproj",
       "packagesPath": "C:\\Users\\alex_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex_\\OneDrive\\Работен плот\\2. Multidimensional Arrays - Exercise\\4. Matrix Shuffling\\obj\\",
+      "outputPath": "C:\\Users\\alex_\\OneDrive\\Документи\\GitHub\\SoftUni_CSharp\\3. C# Advanced\\1. C# Advanced\\2. Exercises\\2. Multidimensional Arrays - Exercise\\4. Matrix Shuffling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

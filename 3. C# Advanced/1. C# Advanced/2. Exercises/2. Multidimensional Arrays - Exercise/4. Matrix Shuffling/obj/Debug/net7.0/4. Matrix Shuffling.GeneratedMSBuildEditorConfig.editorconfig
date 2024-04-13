@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _4._Matrix_Shuffling
-build_property.ProjectDir = C:\Users\alex_\OneDrive\Работен плот\2. Multidimensional Arrays - Exercise\4. Matrix Shuffling\
+build_property.ProjectDir = C:\Users\alex_\OneDrive\Документи\GitHub\SoftUni_CSharp\3. C# Advanced\1. C# Advanced\2. Exercises\2. Multidimensional Arrays - Exercise\4. Matrix Shuffling\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex_\\OneDrive\\Работен плот\\2. Multidimensional Arrays - Exercise\\5. Snake Moves\\5. Snake Moves.csproj": {}
+    "C:\\Users\\alex_\\OneDrive\\Документи\\GitHub\\SoftUni_CSharp\\3. C# Advanced\\1. C# Advanced\\2. Exercises\\2. Multidimensional Arrays - Exercise\\5. Snake Moves\\5. Snake Moves.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex_\\OneDrive\\Работен плот\\2. Multidimensional Arrays - Exercise\\5. Snake Moves\\5. Snake Moves.csproj": {
+    "C:\\Users\\alex_\\OneDrive\\Документи\\GitHub\\SoftUni_CSharp\\3. C# Advanced\\1. C# Advanced\\2. Exercises\\2. Multidimensional Arrays - Exercise\\5. Snake Moves\\5. Snake Moves.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex_\\OneDrive\\Работен плот\\2. Multidimensional Arrays - Exercise\\5. Snake Moves\\5. Snake Moves.csproj",
+        "projectUniqueName": "C:\\Users\\alex_\\OneDrive\\Документи\\GitHub\\SoftUni_CSharp\\3. C# Advanced\\1. C# Advanced\\2. Exercises\\2. Multidimensional Arrays - Exercise\\5. Snake Moves\\5. Snake Moves.csproj",
         "projectName": "5. Snake Moves",
-        "projectPath": "C:\\Users\\alex_\\OneDrive\\Работен плот\\2. Multidimensional Arrays - Exercise\\5. Snake Moves\\5. Snake Moves.csproj",
+        "projectPath": "C:\\Users\\alex_\\OneDrive\\Документи\\GitHub\\SoftUni_CSharp\\3. C# Advanced\\1. C# Advanced\\2. Exercises\\2. Multidimensional Arrays - Exercise\\5. Snake Moves\\5. Snake Moves.csproj",
         "packagesPath": "C:\\Users\\alex_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex_\\OneDrive\\Работен плот\\2. Multidimensional Arrays - Exercise\\5. Snake Moves\\obj\\",
+        "outputPath": "C:\\Users\\alex_\\OneDrive\\Документи\\GitHub\\SoftUni_CSharp\\3. C# Advanced\\1. C# Advanced\\2. Exercises\\2. Multidimensional Arrays - Exercise\\5. Snake Moves\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
